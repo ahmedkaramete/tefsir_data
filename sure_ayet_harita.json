@@ -1,0 +1,8965 @@
+{
+  "1": [
+    {
+      "satir": 16511,
+      "ayet_bas": 7,
+      "ayet_bit": 7
+    }
+  ],
+  "2": [
+    {
+      "satir": 19343,
+      "ayet_bas": 10,
+      "ayet_bit": 10
+    },
+    {
+      "satir": 19351,
+      "ayet_bas": 2,
+      "ayet_bit": 2
+    },
+    {
+      "satir": 19516,
+      "ayet_bas": 255,
+      "ayet_bit": 255
+    },
+    {
+      "satir": 19646,
+      "ayet_bas": 255,
+      "ayet_bit": 255
+    },
+    {
+      "satir": 20083,
+      "ayet_bas": 3,
+      "ayet_bit": 3
+    },
+    {
+      "satir": 20472,
+      "ayet_bas": 98,
+      "ayet_bit": 98
+    },
+    {
+      "satir": 20722,
+      "ayet_bas": 3,
+      "ayet_bit": 3
+    },
+    {
+      "satir": 21013,
+      "ayet_bas": 6,
+      "ayet_bit": 6
+    },
+    {
+      "satir": 21367,
+      "ayet_bas": 6,
+      "ayet_bit": 6
+    },
+    {
+      "satir": 22213,
+      "ayet_bas": 10,
+      "ayet_bit": 10
+    },
+    {
+      "satir": 23383,
+      "ayet_bas": 13,
+      "ayet_bit": 13
+    },
+    {
+      "satir": 23610,
+      "ayet_bas": 67,
+      "ayet_bit": 67
+    },
+    {
+      "satir": 24194,
+      "ayet_bas": 18,
+      "ayet_bit": 18
+    },
+    {
+      "satir": 25193,
+      "ayet_bas": 222,
+      "ayet_bit": 222
+    },
+    {
+      "satir": 25271,
+      "ayet_bas": 30,
+      "ayet_bit": 30
+    },
+    {
+      "satir": 28690,
+      "ayet_bas": 222,
+      "ayet_bit": 222
+    },
+    {
+      "satir": 29808,
+      "ayet_bas": 38,
+      "ayet_bit": 38
+    },
+    {
+      "satir": 30152,
+      "ayet_bas": 28,
+      "ayet_bit": 28
+    },
+    {
+      "satir": 30461,
+      "ayet_bas": 29,
+      "ayet_bit": 29
+    },
+    {
+      "satir": 31649,
+      "ayet_bas": 81,
+      "ayet_bit": 81
+    },
+    {
+      "satir": 32168,
+      "ayet_bas": 31,
+      "ayet_bit": 31
+    },
+    {
+      "satir": 32306,
+      "ayet_bas": 33,
+      "ayet_bit": 33
+    },
+    {
+      "satir": 32865,
+      "ayet_bas": 31,
+      "ayet_bit": 31
+    },
+    {
+      "satir": 34365,
+      "ayet_bas": 152,
+      "ayet_bit": 152
+    },
+    {
+      "satir": 36085,
+      "ayet_bas": 30,
+      "ayet_bit": 30
+    },
+    {
+      "satir": 37431,
+      "ayet_bas": 260,
+      "ayet_bit": 260
+    },
+    {
+      "satir": 38030,
+      "ayet_bas": 37,
+      "ayet_bit": 37
+    },
+    {
+      "satir": 38648,
+      "ayet_bas": 38,
+      "ayet_bit": 38
+    },
+    {
+      "satir": 38812,
+      "ayet_bas": 39,
+      "ayet_bit": 39
+    },
+    {
+      "satir": 38869,
+      "ayet_bas": 48,
+      "ayet_bit": 48
+    },
+    {
+      "satir": 39075,
+      "ayet_bas": 28,
+      "ayet_bit": 28
+    },
+    {
+      "satir": 40013,
+      "ayet_bas": 43,
+      "ayet_bit": 43
+    },
+    {
+      "satir": 40287,
+      "ayet_bas": 44,
+      "ayet_bit": 44
+    },
+    {
+      "satir": 41721,
+      "ayet_bas": 254,
+      "ayet_bit": 254
+    },
+    {
+      "satir": 41850,
+      "ayet_bas": 49,
+      "ayet_bit": 49
+    },
+    {
+      "satir": 42147,
+      "ayet_bas": 50,
+      "ayet_bit": 50
+    },
+    {
+      "satir": 42800,
+      "ayet_bas": 54,
+      "ayet_bit": 54
+    },
+    {
+      "satir": 43068,
+      "ayet_bas": 55,
+      "ayet_bit": 56
+    },
+    {
+      "satir": 43397,
+      "ayet_bas": 57,
+      "ayet_bit": 57
+    },
+    {
+      "satir": 44305,
+      "ayet_bas": 61,
+      "ayet_bit": 61
+    },
+    {
+      "satir": 45008,
+      "ayet_bas": 65,
+      "ayet_bit": 66
+    },
+    {
+      "satir": 46701,
+      "ayet_bas": 75,
+      "ayet_bit": 75
+    },
+    {
+      "satir": 47626,
+      "ayet_bas": 81,
+      "ayet_bit": 81
+    },
+    {
+      "satir": 49162,
+      "ayet_bas": 83,
+      "ayet_bit": 83
+    },
+    {
+      "satir": 49832,
+      "ayet_bas": 85,
+      "ayet_bit": 85
+    },
+    {
+      "satir": 50092,
+      "ayet_bas": 86,
+      "ayet_bit": 86
+    },
+    {
+      "satir": 50160,
+      "ayet_bas": 87,
+      "ayet_bit": 87
+    },
+    {
+      "satir": 50494,
+      "ayet_bas": 89,
+      "ayet_bit": 89
+    },
+    {
+      "satir": 50650,
+      "ayet_bas": 90,
+      "ayet_bit": 90
+    },
+    {
+      "satir": 50943,
+      "ayet_bas": 91,
+      "ayet_bit": 91
+    },
+    {
+      "satir": 51222,
+      "ayet_bas": 94,
+      "ayet_bit": 95
+    },
+    {
+      "satir": 51484,
+      "ayet_bas": 96,
+      "ayet_bit": 96
+    },
+    {
+      "satir": 51594,
+      "ayet_bas": 98,
+      "ayet_bit": 99
+    },
+    {
+      "satir": 51952,
+      "ayet_bas": 99,
+      "ayet_bit": 99
+    },
+    {
+      "satir": 52093,
+      "ayet_bas": 100,
+      "ayet_bit": 100
+    },
+    {
+      "satir": 52191,
+      "ayet_bas": 101,
+      "ayet_bit": 101
+    },
+    {
+      "satir": 52261,
+      "ayet_bas": 102,
+      "ayet_bit": 102
+    },
+    {
+      "satir": 53134,
+      "ayet_bas": 102,
+      "ayet_bit": 102
+    },
+    {
+      "satir": 53781,
+      "ayet_bas": 104,
+      "ayet_bit": 104
+    },
+    {
+      "satir": 53933,
+      "ayet_bas": 105,
+      "ayet_bit": 105
+    },
+    {
+      "satir": 53962,
+      "ayet_bas": 106,
+      "ayet_bit": 106
+    },
+    {
+      "satir": 54259,
+      "ayet_bas": 234,
+      "ayet_bit": 234
+    },
+    {
+      "satir": 54609,
+      "ayet_bas": 108,
+      "ayet_bit": 108
+    },
+    {
+      "satir": 54748,
+      "ayet_bas": 109,
+      "ayet_bit": 109
+    },
+    {
+      "satir": 54894,
+      "ayet_bas": 109,
+      "ayet_bit": 109
+    },
+    {
+      "satir": 55513,
+      "ayet_bas": 110,
+      "ayet_bit": 110
+    },
+    {
+      "satir": 55546,
+      "ayet_bas": 111,
+      "ayet_bit": 112
+    },
+    {
+      "satir": 56039,
+      "ayet_bas": 114,
+      "ayet_bit": 114
+    },
+    {
+      "satir": 57003,
+      "ayet_bas": 142,
+      "ayet_bit": 142
+    },
+    {
+      "satir": 57280,
+      "ayet_bas": 116,
+      "ayet_bit": 117
+    },
+    {
+      "satir": 57752,
+      "ayet_bas": 116,
+      "ayet_bit": 116
+    },
+    {
+      "satir": 57851,
+      "ayet_bas": 119,
+      "ayet_bit": 119
+    },
+    {
+      "satir": 58072,
+      "ayet_bas": 122,
+      "ayet_bit": 123
+    },
+    {
+      "satir": 58087,
+      "ayet_bas": 124,
+      "ayet_bit": 124
+    },
+    {
+      "satir": 59042,
+      "ayet_bas": 125,
+      "ayet_bit": 125
+    },
+    {
+      "satir": 59583,
+      "ayet_bas": 25,
+      "ayet_bit": 25
+    },
+    {
+      "satir": 59688,
+      "ayet_bas": 126,
+      "ayet_bit": 126
+    },
+    {
+      "satir": 59975,
+      "ayet_bas": 127,
+      "ayet_bit": 129
+    },
+    {
+      "satir": 60204,
+      "ayet_bas": 260,
+      "ayet_bit": 260
+    },
+    {
+      "satir": 60957,
+      "ayet_bas": 130,
+      "ayet_bit": 130
+    },
+    {
+      "satir": 61140,
+      "ayet_bas": 131,
+      "ayet_bit": 131
+    },
+    {
+      "satir": 61226,
+      "ayet_bas": 132,
+      "ayet_bit": 132
+    },
+    {
+      "satir": 61332,
+      "ayet_bas": 133,
+      "ayet_bit": 134
+    },
+    {
+      "satir": 61497,
+      "ayet_bas": 21,
+      "ayet_bit": 21
+    },
+    {
+      "satir": 61814,
+      "ayet_bas": 135,
+      "ayet_bit": 135
+    },
+    {
+      "satir": 62064,
+      "ayet_bas": 137,
+      "ayet_bit": 137
+    },
+    {
+      "satir": 62241,
+      "ayet_bas": 138,
+      "ayet_bit": 138
+    },
+    {
+      "satir": 62444,
+      "ayet_bas": 140,
+      "ayet_bit": 140
+    },
+    {
+      "satir": 62539,
+      "ayet_bas": 141,
+      "ayet_bit": 141
+    },
+    {
+      "satir": 62589,
+      "ayet_bas": 142,
+      "ayet_bit": 142
+    },
+    {
+      "satir": 62682,
+      "ayet_bas": 13,
+      "ayet_bit": 13
+    },
+    {
+      "satir": 62959,
+      "ayet_bas": 145,
+      "ayet_bit": 145
+    },
+    {
+      "satir": 62967,
+      "ayet_bas": 115,
+      "ayet_bit": 115
+    },
+    {
+      "satir": 63039,
+      "ayet_bas": 143,
+      "ayet_bit": 143
+    },
+    {
+      "satir": 63184,
+      "ayet_bas": 142,
+      "ayet_bit": 142
+    },
+    {
+      "satir": 64023,
+      "ayet_bas": 144,
+      "ayet_bit": 144
+    },
+    {
+      "satir": 65086,
+      "ayet_bas": 145,
+      "ayet_bit": 145
+    },
+    {
+      "satir": 65434,
+      "ayet_bas": 146,
+      "ayet_bit": 147
+    },
+    {
+      "satir": 66109,
+      "ayet_bas": 149,
+      "ayet_bit": 150
+    },
+    {
+      "satir": 66381,
+      "ayet_bas": 151,
+      "ayet_bit": 151
+    },
+    {
+      "satir": 66397,
+      "ayet_bas": 135,
+      "ayet_bit": 135
+    },
+    {
+      "satir": 66662,
+      "ayet_bas": 154,
+      "ayet_bit": 154
+    },
+    {
+      "satir": 66927,
+      "ayet_bas": 155,
+      "ayet_bit": 155
+    },
+    {
+      "satir": 67507,
+      "ayet_bas": 158,
+      "ayet_bit": 158
+    },
+    {
+      "satir": 67946,
+      "ayet_bas": 159,
+      "ayet_bit": 159
+    },
+    {
+      "satir": 68158,
+      "ayet_bas": 160,
+      "ayet_bit": 160
+    },
+    {
+      "satir": 68212,
+      "ayet_bas": 161,
+      "ayet_bit": 162
+    },
+    {
+      "satir": 70792,
+      "ayet_bas": 165,
+      "ayet_bit": 165
+    },
+    {
+      "satir": 71260,
+      "ayet_bas": 166,
+      "ayet_bit": 167
+    },
+    {
+      "satir": 71544,
+      "ayet_bas": 168,
+      "ayet_bit": 169
+    },
+    {
+      "satir": 71964,
+      "ayet_bas": 171,
+      "ayet_bit": 171
+    },
+    {
+      "satir": 72064,
+      "ayet_bas": 172,
+      "ayet_bit": 172
+    },
+    {
+      "satir": 72180,
+      "ayet_bas": 173,
+      "ayet_bit": 173
+    },
+    {
+      "satir": 73488,
+      "ayet_bas": 174,
+      "ayet_bit": 174
+    },
+    {
+      "satir": 73721,
+      "ayet_bas": 175,
+      "ayet_bit": 175
+    },
+    {
+      "satir": 74003,
+      "ayet_bas": 6,
+      "ayet_bit": 6
+    },
+    {
+      "satir": 74135,
+      "ayet_bas": 177,
+      "ayet_bit": 177
+    },
+    {
+      "satir": 74336,
+      "ayet_bas": 85,
+      "ayet_bit": 85
+    },
+    {
+      "satir": 75557,
+      "ayet_bas": 179,
+      "ayet_bit": 179
+    },
+    {
+      "satir": 75757,
+      "ayet_bas": 180,
+      "ayet_bit": 180
+    },
+    {
+      "satir": 76148,
+      "ayet_bas": 181,
+      "ayet_bit": 181
+    },
+    {
+      "satir": 76287,
+      "ayet_bas": 182,
+      "ayet_bit": 182
+    },
+    {
+      "satir": 76698,
+      "ayet_bas": 184,
+      "ayet_bit": 184
+    },
+    {
+      "satir": 77128,
+      "ayet_bas": 185,
+      "ayet_bit": 185
+    },
+    {
+      "satir": 79062,
+      "ayet_bas": 187,
+      "ayet_bit": 187
+    },
+    {
+      "satir": 79925,
+      "ayet_bas": 125,
+      "ayet_bit": 125
+    },
+    {
+      "satir": 80106,
+      "ayet_bas": 168,
+      "ayet_bit": 168
+    },
+    {
+      "satir": 80802,
+      "ayet_bas": 190,
+      "ayet_bit": 190
+    },
+    {
+      "satir": 80894,
+      "ayet_bas": 191,
+      "ayet_bit": 191
+    },
+    {
+      "satir": 81187,
+      "ayet_bas": 193,
+      "ayet_bit": 193
+    },
+    {
+      "satir": 81297,
+      "ayet_bas": 194,
+      "ayet_bit": 194
+    },
+    {
+      "satir": 81381,
+      "ayet_bas": 195,
+      "ayet_bit": 195
+    },
+    {
+      "satir": 81558,
+      "ayet_bas": 207,
+      "ayet_bit": 207
+    },
+    {
+      "satir": 82539,
+      "ayet_bas": 196,
+      "ayet_bit": 196
+    },
+    {
+      "satir": 83622,
+      "ayet_bas": 262,
+      "ayet_bit": 262
+    },
+    {
+      "satir": 83968,
+      "ayet_bas": 198,
+      "ayet_bit": 198
+    },
+    {
+      "satir": 84746,
+      "ayet_bas": 199,
+      "ayet_bit": 199
+    },
+    {
+      "satir": 85194,
+      "ayet_bas": 201,
+      "ayet_bit": 202
+    },
+    {
+      "satir": 85597,
+      "ayet_bas": 203,
+      "ayet_bit": 203
+    },
+    {
+      "satir": 86462,
+      "ayet_bas": 207,
+      "ayet_bit": 207
+    },
+    {
+      "satir": 86594,
+      "ayet_bas": 208,
+      "ayet_bit": 208
+    },
+    {
+      "satir": 87975,
+      "ayet_bas": 213,
+      "ayet_bit": 213
+    },
+    {
+      "satir": 88415,
+      "ayet_bas": 214,
+      "ayet_bit": 214
+    },
+    {
+      "satir": 88688,
+      "ayet_bas": 215,
+      "ayet_bit": 215
+    },
+    {
+      "satir": 90342,
+      "ayet_bas": 219,
+      "ayet_bit": 220
+    },
+    {
+      "satir": 90487,
+      "ayet_bas": 220,
+      "ayet_bit": 220
+    },
+    {
+      "satir": 91489,
+      "ayet_bas": 228,
+      "ayet_bit": 228
+    },
+    {
+      "satir": 92174,
+      "ayet_bas": 224,
+      "ayet_bit": 224
+    },
+    {
+      "satir": 92246,
+      "ayet_bas": 225,
+      "ayet_bit": 225
+    },
+    {
+      "satir": 92325,
+      "ayet_bas": 225,
+      "ayet_bit": 225
+    },
+    {
+      "satir": 92452,
+      "ayet_bas": 226,
+      "ayet_bit": 227
+    },
+    {
+      "satir": 92807,
+      "ayet_bas": 228,
+      "ayet_bit": 228
+    },
+    {
+      "satir": 93253,
+      "ayet_bas": 228,
+      "ayet_bit": 228
+    },
+    {
+      "satir": 93682,
+      "ayet_bas": 229,
+      "ayet_bit": 229
+    },
+    {
+      "satir": 93885,
+      "ayet_bas": 229,
+      "ayet_bit": 229
+    },
+    {
+      "satir": 94326,
+      "ayet_bas": 231,
+      "ayet_bit": 231
+    },
+    {
+      "satir": 94529,
+      "ayet_bas": 232,
+      "ayet_bit": 232
+    },
+    {
+      "satir": 95334,
+      "ayet_bas": 249,
+      "ayet_bit": 249
+    },
+    {
+      "satir": 95502,
+      "ayet_bas": 234,
+      "ayet_bit": 234
+    },
+    {
+      "satir": 96066,
+      "ayet_bas": 235,
+      "ayet_bit": 235
+    },
+    {
+      "satir": 96143,
+      "ayet_bas": 236,
+      "ayet_bit": 236
+    },
+    {
+      "satir": 96160,
+      "ayet_bas": 237,
+      "ayet_bit": 237
+    },
+    {
+      "satir": 96560,
+      "ayet_bas": 237,
+      "ayet_bit": 237
+    },
+    {
+      "satir": 97485,
+      "ayet_bas": 239,
+      "ayet_bit": 239
+    },
+    {
+      "satir": 97728,
+      "ayet_bas": 240,
+      "ayet_bit": 240
+    },
+    {
+      "satir": 97749,
+      "ayet_bas": 196,
+      "ayet_bit": 196
+    },
+    {
+      "satir": 98034,
+      "ayet_bas": 243,
+      "ayet_bit": 243
+    },
+    {
+      "satir": 98728,
+      "ayet_bas": 247,
+      "ayet_bit": 247
+    },
+    {
+      "satir": 98932,
+      "ayet_bas": 248,
+      "ayet_bit": 249
+    },
+    {
+      "satir": 99637,
+      "ayet_bas": 250,
+      "ayet_bit": 250
+    },
+    {
+      "satir": 99779,
+      "ayet_bas": 251,
+      "ayet_bit": 251
+    },
+    {
+      "satir": 100134,
+      "ayet_bas": 252,
+      "ayet_bit": 252
+    },
+    {
+      "satir": 100199,
+      "ayet_bas": 253,
+      "ayet_bit": 253
+    },
+    {
+      "satir": 100288,
+      "ayet_bas": 23,
+      "ayet_bit": 23
+    },
+    {
+      "satir": 101179,
+      "ayet_bas": 255,
+      "ayet_bit": 255
+    },
+    {
+      "satir": 102307,
+      "ayet_bas": 2,
+      "ayet_bit": 2
+    },
+    {
+      "satir": 102505,
+      "ayet_bas": 258,
+      "ayet_bit": 259
+    },
+    {
+      "satir": 103877,
+      "ayet_bas": 261,
+      "ayet_bit": 261
+    },
+    {
+      "satir": 106026,
+      "ayet_bas": 272,
+      "ayet_bit": 272
+    },
+    {
+      "satir": 106160,
+      "ayet_bas": 228,
+      "ayet_bit": 228
+    },
+    {
+      "satir": 106262,
+      "ayet_bas": 196,
+      "ayet_bit": 196
+    },
+    {
+      "satir": 106500,
+      "ayet_bas": 274,
+      "ayet_bit": 274
+    },
+    {
+      "satir": 107319,
+      "ayet_bas": 276,
+      "ayet_bit": 276
+    },
+    {
+      "satir": 107435,
+      "ayet_bas": 276,
+      "ayet_bit": 276
+    },
+    {
+      "satir": 107458,
+      "ayet_bas": 277,
+      "ayet_bit": 277
+    },
+    {
+      "satir": 107562,
+      "ayet_bas": 278,
+      "ayet_bit": 281
+    },
+    {
+      "satir": 108054,
+      "ayet_bas": 237,
+      "ayet_bit": 237
+    },
+    {
+      "satir": 109228,
+      "ayet_bas": 283,
+      "ayet_bit": 283
+    },
+    {
+      "satir": 110577,
+      "ayet_bas": 286,
+      "ayet_bit": 286
+    },
+    {
+      "satir": 111179,
+      "ayet_bas": 286,
+      "ayet_bit": 286
+    }
+  ],
+  "3": [
+    {
+      "satir": 111447,
+      "ayet_bas": 1,
+      "ayet_bit": 2
+    },
+    {
+      "satir": 114694,
+      "ayet_bas": 16,
+      "ayet_bit": 16
+    },
+    {
+      "satir": 117278,
+      "ayet_bas": 33,
+      "ayet_bit": 34
+    },
+    {
+      "satir": 120798,
+      "ayet_bas": 55,
+      "ayet_bit": 55
+    },
+    {
+      "satir": 121097,
+      "ayet_bas": 56,
+      "ayet_bit": 56
+    },
+    {
+      "satir": 121608,
+      "ayet_bas": 61,
+      "ayet_bit": 61
+    },
+    {
+      "satir": 122088,
+      "ayet_bas": 64,
+      "ayet_bit": 64
+    },
+    {
+      "satir": 122398,
+      "ayet_bas": 69,
+      "ayet_bit": 69
+    },
+    {
+      "satir": 122626,
+      "ayet_bas": 72,
+      "ayet_bit": 72
+    },
+    {
+      "satir": 124801,
+      "ayet_bas": 85,
+      "ayet_bit": 85
+    },
+    {
+      "satir": 124834,
+      "ayet_bas": 86,
+      "ayet_bit": 89
+    },
+    {
+      "satir": 125109,
+      "ayet_bas": 90,
+      "ayet_bit": 90
+    },
+    {
+      "satir": 125222,
+      "ayet_bas": 91,
+      "ayet_bit": 91
+    },
+    {
+      "satir": 127296,
+      "ayet_bas": 102,
+      "ayet_bit": 103
+    },
+    {
+      "satir": 131670,
+      "ayet_bas": 129,
+      "ayet_bit": 129
+    },
+    {
+      "satir": 132942,
+      "ayet_bas": 142,
+      "ayet_bit": 143
+    },
+    {
+      "satir": 133212,
+      "ayet_bas": 145,
+      "ayet_bit": 145
+    },
+    {
+      "satir": 133601,
+      "ayet_bas": 148,
+      "ayet_bit": 148
+    },
+    {
+      "satir": 133701,
+      "ayet_bas": 149,
+      "ayet_bit": 150
+    },
+    {
+      "satir": 134284,
+      "ayet_bas": 153,
+      "ayet_bit": 153
+    },
+    {
+      "satir": 136282,
+      "ayet_bas": 160,
+      "ayet_bit": 160
+    },
+    {
+      "satir": 137697,
+      "ayet_bas": 169,
+      "ayet_bit": 170
+    },
+    {
+      "satir": 138204,
+      "ayet_bas": 171,
+      "ayet_bit": 171
+    },
+    {
+      "satir": 139232,
+      "ayet_bas": 179,
+      "ayet_bit": 179
+    },
+    {
+      "satir": 139942,
+      "ayet_bas": 183,
+      "ayet_bit": 183
+    },
+    {
+      "satir": 140367,
+      "ayet_bas": 186,
+      "ayet_bit": 186
+    },
+    {
+      "satir": 141816,
+      "ayet_bas": 194,
+      "ayet_bit": 194
+    },
+    {
+      "satir": 141930,
+      "ayet_bas": 195,
+      "ayet_bit": 195
+    },
+    {
+      "satir": 142157,
+      "ayet_bas": 196,
+      "ayet_bit": 197
+    }
+  ],
+  "4": [
+    {
+      "satir": 142462,
+      "ayet_bas": 1,
+      "ayet_bit": 1
+    },
+    {
+      "satir": 142754,
+      "ayet_bas": 1,
+      "ayet_bit": 1
+    },
+    {
+      "satir": 143046,
+      "ayet_bas": 36,
+      "ayet_bit": 36
+    },
+    {
+      "satir": 143113,
+      "ayet_bas": 2,
+      "ayet_bit": 2
+    },
+    {
+      "satir": 143406,
+      "ayet_bas": 3,
+      "ayet_bit": 3
+    },
+    {
+      "satir": 143499,
+      "ayet_bas": 3,
+      "ayet_bit": 3
+    },
+    {
+      "satir": 144291,
+      "ayet_bas": 5,
+      "ayet_bit": 5
+    },
+    {
+      "satir": 144550,
+      "ayet_bas": 6,
+      "ayet_bit": 6
+    },
+    {
+      "satir": 144833,
+      "ayet_bas": 2,
+      "ayet_bit": 2
+    },
+    {
+      "satir": 144838,
+      "ayet_bas": 127,
+      "ayet_bit": 127
+    },
+    {
+      "satir": 145009,
+      "ayet_bas": 7,
+      "ayet_bit": 7
+    },
+    {
+      "satir": 145152,
+      "ayet_bas": 8,
+      "ayet_bit": 8
+    },
+    {
+      "satir": 145292,
+      "ayet_bas": 9,
+      "ayet_bit": 9
+    },
+    {
+      "satir": 147272,
+      "ayet_bas": 14,
+      "ayet_bit": 14
+    },
+    {
+      "satir": 147336,
+      "ayet_bas": 13,
+      "ayet_bit": 14
+    },
+    {
+      "satir": 147525,
+      "ayet_bas": 15,
+      "ayet_bit": 15
+    },
+    {
+      "satir": 147834,
+      "ayet_bas": 16,
+      "ayet_bit": 16
+    },
+    {
+      "satir": 148225,
+      "ayet_bas": 18,
+      "ayet_bit": 18
+    },
+    {
+      "satir": 148357,
+      "ayet_bas": 17,
+      "ayet_bit": 17
+    },
+    {
+      "satir": 148481,
+      "ayet_bas": 19,
+      "ayet_bit": 19
+    },
+    {
+      "satir": 148699,
+      "ayet_bas": 130,
+      "ayet_bit": 130
+    },
+    {
+      "satir": 148717,
+      "ayet_bas": 20,
+      "ayet_bit": 21
+    },
+    {
+      "satir": 149040,
+      "ayet_bas": 22,
+      "ayet_bit": 22
+    },
+    {
+      "satir": 150086,
+      "ayet_bas": 23,
+      "ayet_bit": 23
+    },
+    {
+      "satir": 150945,
+      "ayet_bas": 23,
+      "ayet_bit": 23
+    },
+    {
+      "satir": 151529,
+      "ayet_bas": 24,
+      "ayet_bit": 24
+    },
+    {
+      "satir": 151683,
+      "ayet_bas": 25,
+      "ayet_bit": 25
+    },
+    {
+      "satir": 152395,
+      "ayet_bas": 26,
+      "ayet_bit": 26
+    },
+    {
+      "satir": 152515,
+      "ayet_bas": 27,
+      "ayet_bit": 27
+    },
+    {
+      "satir": 152661,
+      "ayet_bas": 147,
+      "ayet_bit": 147
+    },
+    {
+      "satir": 152675,
+      "ayet_bas": 29,
+      "ayet_bit": 30
+    },
+    {
+      "satir": 153021,
+      "ayet_bas": 81,
+      "ayet_bit": 81
+    },
+    {
+      "satir": 154763,
+      "ayet_bas": 37,
+      "ayet_bit": 37
+    },
+    {
+      "satir": 154865,
+      "ayet_bas": 38,
+      "ayet_bit": 38
+    },
+    {
+      "satir": 154910,
+      "ayet_bas": 39,
+      "ayet_bit": 39
+    },
+    {
+      "satir": 154988,
+      "ayet_bas": 40,
+      "ayet_bit": 40
+    },
+    {
+      "satir": 155259,
+      "ayet_bas": 41,
+      "ayet_bit": 42
+    },
+    {
+      "satir": 155936,
+      "ayet_bas": 44,
+      "ayet_bit": 45
+    },
+    {
+      "satir": 155980,
+      "ayet_bas": 46,
+      "ayet_bit": 46
+    },
+    {
+      "satir": 156332,
+      "ayet_bas": 47,
+      "ayet_bit": 47
+    },
+    {
+      "satir": 156826,
+      "ayet_bas": 51,
+      "ayet_bit": 52
+    },
+    {
+      "satir": 157129,
+      "ayet_bas": 54,
+      "ayet_bit": 56
+    },
+    {
+      "satir": 157440,
+      "ayet_bas": 93,
+      "ayet_bit": 93
+    },
+    {
+      "satir": 157483,
+      "ayet_bas": 58,
+      "ayet_bit": 58
+    },
+    {
+      "satir": 157849,
+      "ayet_bas": 59,
+      "ayet_bit": 59
+    },
+    {
+      "satir": 158834,
+      "ayet_bas": 62,
+      "ayet_bit": 63
+    },
+    {
+      "satir": 159285,
+      "ayet_bas": 65,
+      "ayet_bit": 65
+    },
+    {
+      "satir": 159736,
+      "ayet_bas": 69,
+      "ayet_bit": 70
+    },
+    {
+      "satir": 160317,
+      "ayet_bas": 72,
+      "ayet_bit": 73
+    },
+    {
+      "satir": 160549,
+      "ayet_bas": 75,
+      "ayet_bit": 75
+    },
+    {
+      "satir": 160955,
+      "ayet_bas": 78,
+      "ayet_bit": 78
+    },
+    {
+      "satir": 161332,
+      "ayet_bas": 80,
+      "ayet_bit": 80
+    },
+    {
+      "satir": 161441,
+      "ayet_bas": 81,
+      "ayet_bit": 81
+    },
+    {
+      "satir": 161563,
+      "ayet_bas": 82,
+      "ayet_bit": 82
+    },
+    {
+      "satir": 161709,
+      "ayet_bas": 83,
+      "ayet_bit": 83
+    },
+    {
+      "satir": 162429,
+      "ayet_bas": 86,
+      "ayet_bit": 86
+    },
+    {
+      "satir": 163059,
+      "ayet_bas": 87,
+      "ayet_bit": 87
+    },
+    {
+      "satir": 163405,
+      "ayet_bas": 89,
+      "ayet_bit": 89
+    },
+    {
+      "satir": 163525,
+      "ayet_bas": 90,
+      "ayet_bit": 90
+    },
+    {
+      "satir": 163593,
+      "ayet_bas": 89,
+      "ayet_bit": 89
+    },
+    {
+      "satir": 163737,
+      "ayet_bas": 91,
+      "ayet_bit": 91
+    },
+    {
+      "satir": 163787,
+      "ayet_bas": 92,
+      "ayet_bit": 92
+    },
+    {
+      "satir": 165368,
+      "ayet_bas": 97,
+      "ayet_bit": 99
+    },
+    {
+      "satir": 165604,
+      "ayet_bas": 100,
+      "ayet_bit": 100
+    },
+    {
+      "satir": 166206,
+      "ayet_bas": 102,
+      "ayet_bit": 103
+    },
+    {
+      "satir": 166685,
+      "ayet_bas": 104,
+      "ayet_bit": 104
+    },
+    {
+      "satir": 166918,
+      "ayet_bas": 107,
+      "ayet_bit": 107
+    },
+    {
+      "satir": 167018,
+      "ayet_bas": 109,
+      "ayet_bit": 109
+    },
+    {
+      "satir": 167104,
+      "ayet_bas": 112,
+      "ayet_bit": 112
+    },
+    {
+      "satir": 167230,
+      "ayet_bas": 114,
+      "ayet_bit": 114
+    },
+    {
+      "satir": 168174,
+      "ayet_bas": 124,
+      "ayet_bit": 124
+    },
+    {
+      "satir": 168260,
+      "ayet_bas": 125,
+      "ayet_bit": 126
+    },
+    {
+      "satir": 168682,
+      "ayet_bas": 3,
+      "ayet_bit": 3
+    },
+    {
+      "satir": 169037,
+      "ayet_bas": 129,
+      "ayet_bit": 130
+    },
+    {
+      "satir": 169357,
+      "ayet_bas": 3,
+      "ayet_bit": 3
+    },
+    {
+      "satir": 170004,
+      "ayet_bas": 139,
+      "ayet_bit": 139
+    },
+    {
+      "satir": 170254,
+      "ayet_bas": 139,
+      "ayet_bit": 139
+    },
+    {
+      "satir": 170436,
+      "ayet_bas": 146,
+      "ayet_bit": 146
+    },
+    {
+      "satir": 170468,
+      "ayet_bas": 147,
+      "ayet_bit": 147
+    },
+    {
+      "satir": 170708,
+      "ayet_bas": 149,
+      "ayet_bit": 149
+    },
+    {
+      "satir": 170856,
+      "ayet_bas": 152,
+      "ayet_bit": 152
+    },
+    {
+      "satir": 171576,
+      "ayet_bas": 100,
+      "ayet_bit": 100
+    },
+    {
+      "satir": 171693,
+      "ayet_bas": 160,
+      "ayet_bit": 161
+    }
+  ],
+  "5": [
+    {
+      "satir": 172814,
+      "ayet_bas": 1,
+      "ayet_bit": 1
+    },
+    {
+      "satir": 173489,
+      "ayet_bas": 3,
+      "ayet_bit": 3
+    },
+    {
+      "satir": 174528,
+      "ayet_bas": 5,
+      "ayet_bit": 5
+    },
+    {
+      "satir": 177320,
+      "ayet_bas": 6,
+      "ayet_bit": 6
+    },
+    {
+      "satir": 178377,
+      "ayet_bas": 20,
+      "ayet_bit": 21
+    },
+    {
+      "satir": 178643,
+      "ayet_bas": 23,
+      "ayet_bit": 23
+    },
+    {
+      "satir": 178715,
+      "ayet_bas": 24,
+      "ayet_bit": 24
+    },
+    {
+      "satir": 178796,
+      "ayet_bas": 26,
+      "ayet_bit": 26
+    },
+    {
+      "satir": 178959,
+      "ayet_bas": 27,
+      "ayet_bit": 28
+    },
+    {
+      "satir": 179284,
+      "ayet_bas": 29,
+      "ayet_bit": 29
+    },
+    {
+      "satir": 179415,
+      "ayet_bas": 31,
+      "ayet_bit": 31
+    },
+    {
+      "satir": 179556,
+      "ayet_bas": 32,
+      "ayet_bit": 32
+    },
+    {
+      "satir": 179775,
+      "ayet_bas": 33,
+      "ayet_bit": 33
+    },
+    {
+      "satir": 180086,
+      "ayet_bas": 34,
+      "ayet_bit": 34
+    },
+    {
+      "satir": 180109,
+      "ayet_bas": 35,
+      "ayet_bit": 35
+    },
+    {
+      "satir": 180280,
+      "ayet_bas": 36,
+      "ayet_bit": 37
+    },
+    {
+      "satir": 180996,
+      "ayet_bas": 41,
+      "ayet_bit": 43
+    },
+    {
+      "satir": 181796,
+      "ayet_bas": 45,
+      "ayet_bit": 45
+    },
+    {
+      "satir": 182005,
+      "ayet_bas": 47,
+      "ayet_bit": 47
+    },
+    {
+      "satir": 182079,
+      "ayet_bas": 46,
+      "ayet_bit": 46
+    },
+    {
+      "satir": 182287,
+      "ayet_bas": 49,
+      "ayet_bit": 49
+    },
+    {
+      "satir": 182389,
+      "ayet_bas": 50,
+      "ayet_bit": 50
+    },
+    {
+      "satir": 182465,
+      "ayet_bas": 51,
+      "ayet_bit": 51
+    },
+    {
+      "satir": 182512,
+      "ayet_bas": 52,
+      "ayet_bit": 52
+    },
+    {
+      "satir": 182561,
+      "ayet_bas": 53,
+      "ayet_bit": 53
+    },
+    {
+      "satir": 182632,
+      "ayet_bas": 54,
+      "ayet_bit": 54
+    },
+    {
+      "satir": 183087,
+      "ayet_bas": 55,
+      "ayet_bit": 55
+    },
+    {
+      "satir": 183283,
+      "ayet_bas": 57,
+      "ayet_bit": 57
+    },
+    {
+      "satir": 183997,
+      "ayet_bas": 61,
+      "ayet_bit": 61
+    },
+    {
+      "satir": 184155,
+      "ayet_bas": 64,
+      "ayet_bit": 64
+    },
+    {
+      "satir": 184911,
+      "ayet_bas": 69,
+      "ayet_bit": 69
+    },
+    {
+      "satir": 185129,
+      "ayet_bas": 70,
+      "ayet_bit": 70
+    },
+    {
+      "satir": 185462,
+      "ayet_bas": 73,
+      "ayet_bit": 73
+    },
+    {
+      "satir": 185537,
+      "ayet_bas": 74,
+      "ayet_bit": 75
+    },
+    {
+      "satir": 185651,
+      "ayet_bas": 76,
+      "ayet_bit": 76
+    },
+    {
+      "satir": 185696,
+      "ayet_bas": 77,
+      "ayet_bit": 77
+    },
+    {
+      "satir": 185791,
+      "ayet_bas": 78,
+      "ayet_bit": 61
+    },
+    {
+      "satir": 185903,
+      "ayet_bas": 82,
+      "ayet_bit": 82
+    },
+    {
+      "satir": 186041,
+      "ayet_bas": 83,
+      "ayet_bit": 86
+    },
+    {
+      "satir": 186193,
+      "ayet_bas": 87,
+      "ayet_bit": 87
+    },
+    {
+      "satir": 186446,
+      "ayet_bas": 89,
+      "ayet_bit": 89
+    },
+    {
+      "satir": 187072,
+      "ayet_bas": 92,
+      "ayet_bit": 92
+    },
+    {
+      "satir": 187107,
+      "ayet_bas": 93,
+      "ayet_bit": 93
+    },
+    {
+      "satir": 187410,
+      "ayet_bas": 95,
+      "ayet_bit": 95
+    },
+    {
+      "satir": 188301,
+      "ayet_bas": 96,
+      "ayet_bit": 96
+    },
+    {
+      "satir": 188682,
+      "ayet_bas": 98,
+      "ayet_bit": 98
+    },
+    {
+      "satir": 188699,
+      "ayet_bas": 99,
+      "ayet_bit": 99
+    },
+    {
+      "satir": 188713,
+      "ayet_bas": 100,
+      "ayet_bit": 100
+    },
+    {
+      "satir": 189012,
+      "ayet_bas": 102,
+      "ayet_bit": 102
+    },
+    {
+      "satir": 189245,
+      "ayet_bas": 104,
+      "ayet_bit": 104
+    },
+    {
+      "satir": 189433,
+      "ayet_bas": 106,
+      "ayet_bit": 106
+    },
+    {
+      "satir": 189827,
+      "ayet_bas": 107,
+      "ayet_bit": 108
+    },
+    {
+      "satir": 190016,
+      "ayet_bas": 109,
+      "ayet_bit": 109
+    },
+    {
+      "satir": 190189,
+      "ayet_bas": 110,
+      "ayet_bit": 111
+    },
+    {
+      "satir": 190528,
+      "ayet_bas": 112,
+      "ayet_bit": 112
+    },
+    {
+      "satir": 190688,
+      "ayet_bas": 119,
+      "ayet_bit": 119
+    },
+    {
+      "satir": 190715,
+      "ayet_bas": 114,
+      "ayet_bit": 114
+    },
+    {
+      "satir": 190912,
+      "ayet_bas": 116,
+      "ayet_bit": 116
+    },
+    {
+      "satir": 191191,
+      "ayet_bas": 119,
+      "ayet_bit": 120
+    }
+  ],
+  "6": [
+    {
+      "satir": 191402,
+      "ayet_bas": 1,
+      "ayet_bit": 1
+    },
+    {
+      "satir": 192040,
+      "ayet_bas": 2,
+      "ayet_bit": 2
+    },
+    {
+      "satir": 192185,
+      "ayet_bas": 3,
+      "ayet_bit": 3
+    },
+    {
+      "satir": 192364,
+      "ayet_bas": 4,
+      "ayet_bit": 4
+    },
+    {
+      "satir": 192382,
+      "ayet_bas": 5,
+      "ayet_bit": 5
+    },
+    {
+      "satir": 192432,
+      "ayet_bas": 6,
+      "ayet_bit": 6
+    },
+    {
+      "satir": 192527,
+      "ayet_bas": 7,
+      "ayet_bit": 7
+    },
+    {
+      "satir": 192698,
+      "ayet_bas": 10,
+      "ayet_bit": 10
+    },
+    {
+      "satir": 192768,
+      "ayet_bas": 12,
+      "ayet_bit": 12
+    },
+    {
+      "satir": 192947,
+      "ayet_bas": 13,
+      "ayet_bit": 15
+    },
+    {
+      "satir": 193265,
+      "ayet_bas": 17,
+      "ayet_bit": 17
+    },
+    {
+      "satir": 193486,
+      "ayet_bas": 19,
+      "ayet_bit": 19
+    },
+    {
+      "satir": 193803,
+      "ayet_bas": 21,
+      "ayet_bit": 22
+    },
+    {
+      "satir": 193866,
+      "ayet_bas": 23,
+      "ayet_bit": 24
+    },
+    {
+      "satir": 194424,
+      "ayet_bas": 27,
+      "ayet_bit": 28
+    },
+    {
+      "satir": 194757,
+      "ayet_bas": 29,
+      "ayet_bit": 30
+    },
+    {
+      "satir": 194854,
+      "ayet_bas": 31,
+      "ayet_bit": 31
+    },
+    {
+      "satir": 195096,
+      "ayet_bas": 32,
+      "ayet_bit": 32
+    },
+    {
+      "satir": 195481,
+      "ayet_bas": 34,
+      "ayet_bit": 34
+    },
+    {
+      "satir": 195557,
+      "ayet_bas": 35,
+      "ayet_bit": 35
+    },
+    {
+      "satir": 195668,
+      "ayet_bas": 36,
+      "ayet_bit": 36
+    },
+    {
+      "satir": 195723,
+      "ayet_bas": 37,
+      "ayet_bit": 37
+    },
+    {
+      "satir": 196379,
+      "ayet_bas": 39,
+      "ayet_bit": 39
+    },
+    {
+      "satir": 196933,
+      "ayet_bas": 47,
+      "ayet_bit": 47
+    },
+    {
+      "satir": 196980,
+      "ayet_bas": 48,
+      "ayet_bit": 49
+    },
+    {
+      "satir": 197018,
+      "ayet_bas": 50,
+      "ayet_bit": 50
+    },
+    {
+      "satir": 197151,
+      "ayet_bas": 51,
+      "ayet_bit": 51
+    },
+    {
+      "satir": 197270,
+      "ayet_bas": 52,
+      "ayet_bit": 52
+    },
+    {
+      "satir": 197481,
+      "ayet_bas": 53,
+      "ayet_bit": 53
+    },
+    {
+      "satir": 197617,
+      "ayet_bas": 54,
+      "ayet_bit": 54
+    },
+    {
+      "satir": 197929,
+      "ayet_bas": 55,
+      "ayet_bit": 55
+    },
+    {
+      "satir": 197979,
+      "ayet_bas": 56,
+      "ayet_bit": 57
+    },
+    {
+      "satir": 198086,
+      "ayet_bas": 58,
+      "ayet_bit": 58
+    },
+    {
+      "satir": 198102,
+      "ayet_bas": 59,
+      "ayet_bit": 59
+    },
+    {
+      "satir": 198339,
+      "ayet_bas": 60,
+      "ayet_bit": 60
+    },
+    {
+      "satir": 198409,
+      "ayet_bas": 61,
+      "ayet_bit": 62
+    },
+    {
+      "satir": 199154,
+      "ayet_bas": 68,
+      "ayet_bit": 68
+    },
+    {
+      "satir": 199276,
+      "ayet_bas": 69,
+      "ayet_bit": 69
+    },
+    {
+      "satir": 199309,
+      "ayet_bas": 70,
+      "ayet_bit": 70
+    },
+    {
+      "satir": 199448,
+      "ayet_bas": 71,
+      "ayet_bit": 72
+    },
+    {
+      "satir": 199581,
+      "ayet_bas": 73,
+      "ayet_bit": 73
+    },
+    {
+      "satir": 199757,
+      "ayet_bas": 74,
+      "ayet_bit": 74
+    },
+    {
+      "satir": 200570,
+      "ayet_bas": 76,
+      "ayet_bit": 79
+    },
+    {
+      "satir": 200637,
+      "ayet_bas": 74,
+      "ayet_bit": 74
+    },
+    {
+      "satir": 200675,
+      "ayet_bas": 124,
+      "ayet_bit": 124
+    },
+    {
+      "satir": 202713,
+      "ayet_bas": 19,
+      "ayet_bit": 19
+    },
+    {
+      "satir": 202755,
+      "ayet_bas": 92,
+      "ayet_bit": 92
+    },
+    {
+      "satir": 202960,
+      "ayet_bas": 93,
+      "ayet_bit": 93
+    },
+    {
+      "satir": 204128,
+      "ayet_bas": 97,
+      "ayet_bit": 97
+    },
+    {
+      "satir": 204452,
+      "ayet_bas": 99,
+      "ayet_bit": 99
+    },
+    {
+      "satir": 204978,
+      "ayet_bas": 100,
+      "ayet_bit": 100
+    },
+    {
+      "satir": 205310,
+      "ayet_bas": 101,
+      "ayet_bit": 101
+    },
+    {
+      "satir": 205442,
+      "ayet_bas": 102,
+      "ayet_bit": 102
+    },
+    {
+      "satir": 205767,
+      "ayet_bas": 103,
+      "ayet_bit": 103
+    },
+    {
+      "satir": 206350,
+      "ayet_bas": 104,
+      "ayet_bit": 104
+    },
+    {
+      "satir": 206458,
+      "ayet_bas": 105,
+      "ayet_bit": 105
+    },
+    {
+      "satir": 206664,
+      "ayet_bas": 106,
+      "ayet_bit": 106
+    },
+    {
+      "satir": 206780,
+      "ayet_bas": 108,
+      "ayet_bit": 108
+    },
+    {
+      "satir": 207490,
+      "ayet_bas": 111,
+      "ayet_bit": 111
+    },
+    {
+      "satir": 207686,
+      "ayet_bas": 112,
+      "ayet_bit": 112
+    },
+    {
+      "satir": 207930,
+      "ayet_bas": 113,
+      "ayet_bit": 113
+    },
+    {
+      "satir": 208092,
+      "ayet_bas": 114,
+      "ayet_bit": 114
+    },
+    {
+      "satir": 208487,
+      "ayet_bas": 117,
+      "ayet_bit": 117
+    },
+    {
+      "satir": 208542,
+      "ayet_bas": 118,
+      "ayet_bit": 118
+    },
+    {
+      "satir": 208615,
+      "ayet_bas": 119,
+      "ayet_bit": 119
+    },
+    {
+      "satir": 208629,
+      "ayet_bas": 126,
+      "ayet_bit": 126
+    },
+    {
+      "satir": 208744,
+      "ayet_bas": 120,
+      "ayet_bit": 120
+    },
+    {
+      "satir": 209224,
+      "ayet_bas": 123,
+      "ayet_bit": 123
+    },
+    {
+      "satir": 209320,
+      "ayet_bas": 124,
+      "ayet_bit": 124
+    },
+    {
+      "satir": 210059,
+      "ayet_bas": 126,
+      "ayet_bit": 126
+    },
+    {
+      "satir": 210145,
+      "ayet_bas": 127,
+      "ayet_bit": 127
+    },
+    {
+      "satir": 210566,
+      "ayet_bas": 130,
+      "ayet_bit": 130
+    },
+    {
+      "satir": 210691,
+      "ayet_bas": 131,
+      "ayet_bit": 131
+    },
+    {
+      "satir": 210856,
+      "ayet_bas": 133134,
+      "ayet_bit": 133134
+    },
+    {
+      "satir": 211153,
+      "ayet_bas": 135,
+      "ayet_bit": 135
+    },
+    {
+      "satir": 211155,
+      "ayet_bas": 134,
+      "ayet_bit": 134
+    },
+    {
+      "satir": 211321,
+      "ayet_bas": 137,
+      "ayet_bit": 137
+    },
+    {
+      "satir": 211451,
+      "ayet_bas": 138,
+      "ayet_bit": 138
+    },
+    {
+      "satir": 211497,
+      "ayet_bas": 139,
+      "ayet_bit": 139
+    },
+    {
+      "satir": 211568,
+      "ayet_bas": 140,
+      "ayet_bit": 140
+    },
+    {
+      "satir": 211633,
+      "ayet_bas": 141,
+      "ayet_bit": 141
+    },
+    {
+      "satir": 211984,
+      "ayet_bas": 142,
+      "ayet_bit": 144
+    },
+    {
+      "satir": 212180,
+      "ayet_bas": 145,
+      "ayet_bit": 147
+    },
+    {
+      "satir": 212604,
+      "ayet_bas": 148,
+      "ayet_bit": 149
+    },
+    {
+      "satir": 213033,
+      "ayet_bas": 100,
+      "ayet_bit": 100
+    },
+    {
+      "satir": 213287,
+      "ayet_bas": 153,
+      "ayet_bit": 153
+    },
+    {
+      "satir": 213458,
+      "ayet_bas": 155,
+      "ayet_bit": 157
+    },
+    {
+      "satir": 213728,
+      "ayet_bas": 160,
+      "ayet_bit": 160
+    },
+    {
+      "satir": 213922,
+      "ayet_bas": 162,
+      "ayet_bit": 163
+    },
+    {
+      "satir": 213986,
+      "ayet_bas": 164,
+      "ayet_bit": 164
+    }
+  ],
+  "7": [
+    {
+      "satir": 214124,
+      "ayet_bas": 1,
+      "ayet_bit": 2
+    },
+    {
+      "satir": 214334,
+      "ayet_bas": 3,
+      "ayet_bit": 3
+    },
+    {
+      "satir": 215554,
+      "ayet_bas": 13,
+      "ayet_bit": 13
+    },
+    {
+      "satir": 215618,
+      "ayet_bas": 14,
+      "ayet_bit": 18
+    },
+    {
+      "satir": 216137,
+      "ayet_bas": 18,
+      "ayet_bit": 18
+    },
+    {
+      "satir": 216194,
+      "ayet_bas": 19,
+      "ayet_bit": 19
+    },
+    {
+      "satir": 216254,
+      "ayet_bas": 20,
+      "ayet_bit": 22
+    },
+    {
+      "satir": 216598,
+      "ayet_bas": 24,
+      "ayet_bit": 25
+    },
+    {
+      "satir": 216746,
+      "ayet_bas": 27,
+      "ayet_bit": 27
+    },
+    {
+      "satir": 217013,
+      "ayet_bas": 2930,
+      "ayet_bit": 2930
+    },
+    {
+      "satir": 217217,
+      "ayet_bas": 31,
+      "ayet_bit": 32
+    },
+    {
+      "satir": 217782,
+      "ayet_bas": 35,
+      "ayet_bit": 36
+    },
+    {
+      "satir": 217882,
+      "ayet_bas": 37,
+      "ayet_bit": 37
+    },
+    {
+      "satir": 218024,
+      "ayet_bas": 38,
+      "ayet_bit": 39
+    },
+    {
+      "satir": 218233,
+      "ayet_bas": 36,
+      "ayet_bit": 36
+    },
+    {
+      "satir": 218462,
+      "ayet_bas": 42,
+      "ayet_bit": 43
+    },
+    {
+      "satir": 218764,
+      "ayet_bas": 44,
+      "ayet_bit": 45
+    },
+    {
+      "satir": 219000,
+      "ayet_bas": 46,
+      "ayet_bit": 47
+    },
+    {
+      "satir": 219253,
+      "ayet_bas": 48,
+      "ayet_bit": 49
+    },
+    {
+      "satir": 219307,
+      "ayet_bas": 50,
+      "ayet_bit": 51
+    },
+    {
+      "satir": 219450,
+      "ayet_bas": 52,
+      "ayet_bit": 52
+    },
+    {
+      "satir": 219481,
+      "ayet_bas": 53,
+      "ayet_bit": 53
+    },
+    {
+      "satir": 219567,
+      "ayet_bas": 54,
+      "ayet_bit": 54
+    },
+    {
+      "satir": 221417,
+      "ayet_bas": 55,
+      "ayet_bit": 56
+    },
+    {
+      "satir": 222117,
+      "ayet_bas": 57,
+      "ayet_bit": 58
+    },
+    {
+      "satir": 222638,
+      "ayet_bas": 59,
+      "ayet_bit": 62
+    },
+    {
+      "satir": 222971,
+      "ayet_bas": 63,
+      "ayet_bit": 64
+    },
+    {
+      "satir": 223134,
+      "ayet_bas": 65,
+      "ayet_bit": 69
+    },
+    {
+      "satir": 223198,
+      "ayet_bas": 59,
+      "ayet_bit": 59
+    },
+    {
+      "satir": 223220,
+      "ayet_bas": 60,
+      "ayet_bit": 60
+    },
+    {
+      "satir": 223226,
+      "ayet_bas": 66,
+      "ayet_bit": 66
+    },
+    {
+      "satir": 223255,
+      "ayet_bas": 62,
+      "ayet_bit": 62
+    },
+    {
+      "satir": 223380,
+      "ayet_bas": 70,
+      "ayet_bit": 72
+    },
+    {
+      "satir": 223528,
+      "ayet_bas": 73,
+      "ayet_bit": 74
+    },
+    {
+      "satir": 223969,
+      "ayet_bas": 80,
+      "ayet_bit": 80
+    },
+    {
+      "satir": 224012,
+      "ayet_bas": 81,
+      "ayet_bit": 81
+    },
+    {
+      "satir": 224149,
+      "ayet_bas": 82,
+      "ayet_bit": 82
+    },
+    {
+      "satir": 224183,
+      "ayet_bas": 83,
+      "ayet_bit": 84
+    },
+    {
+      "satir": 224272,
+      "ayet_bas": 85,
+      "ayet_bit": 85
+    },
+    {
+      "satir": 224397,
+      "ayet_bas": 86,
+      "ayet_bit": 86
+    },
+    {
+      "satir": 224465,
+      "ayet_bas": 87,
+      "ayet_bit": 87
+    },
+    {
+      "satir": 224940,
+      "ayet_bas": 94,
+      "ayet_bit": 95
+    },
+    {
+      "satir": 225033,
+      "ayet_bas": 96,
+      "ayet_bit": 99
+    },
+    {
+      "satir": 225111,
+      "ayet_bas": 100,
+      "ayet_bit": 101
+    },
+    {
+      "satir": 225269,
+      "ayet_bas": 102,
+      "ayet_bit": 102
+    },
+    {
+      "satir": 225273,
+      "ayet_bas": 172,
+      "ayet_bit": 172
+    },
+    {
+      "satir": 225303,
+      "ayet_bas": 103,
+      "ayet_bit": 103
+    },
+    {
+      "satir": 225481,
+      "ayet_bas": 86,
+      "ayet_bit": 86
+    },
+    {
+      "satir": 225533,
+      "ayet_bas": 107,
+      "ayet_bit": 110
+    },
+    {
+      "satir": 225923,
+      "ayet_bas": 111,
+      "ayet_bit": 114
+    },
+    {
+      "satir": 226180,
+      "ayet_bas": 115,
+      "ayet_bit": 119
+    },
+    {
+      "satir": 226574,
+      "ayet_bas": 123,
+      "ayet_bit": 126
+    },
+    {
+      "satir": 226916,
+      "ayet_bas": 129,
+      "ayet_bit": 129
+    },
+    {
+      "satir": 227150,
+      "ayet_bas": 132,
+      "ayet_bit": 133
+    },
+    {
+      "satir": 227343,
+      "ayet_bas": 134,
+      "ayet_bit": 135
+    },
+    {
+      "satir": 227414,
+      "ayet_bas": 136,
+      "ayet_bit": 136
+    },
+    {
+      "satir": 227461,
+      "ayet_bas": 137,
+      "ayet_bit": 137
+    },
+    {
+      "satir": 227545,
+      "ayet_bas": 138,
+      "ayet_bit": 139
+    },
+    {
+      "satir": 227749,
+      "ayet_bas": 142,
+      "ayet_bit": 142
+    },
+    {
+      "satir": 228390,
+      "ayet_bas": 144,
+      "ayet_bit": 144
+    },
+    {
+      "satir": 228452,
+      "ayet_bas": 145,
+      "ayet_bit": 145
+    },
+    {
+      "satir": 228562,
+      "ayet_bas": 146,
+      "ayet_bit": 146
+    },
+    {
+      "satir": 228710,
+      "ayet_bas": 147,
+      "ayet_bit": 147
+    },
+    {
+      "satir": 228747,
+      "ayet_bas": 148,
+      "ayet_bit": 148
+    },
+    {
+      "satir": 228839,
+      "ayet_bas": 151,
+      "ayet_bit": 151
+    },
+    {
+      "satir": 228902,
+      "ayet_bas": 149,
+      "ayet_bit": 149
+    },
+    {
+      "satir": 229005,
+      "ayet_bas": 150,
+      "ayet_bit": 151
+    },
+    {
+      "satir": 229215,
+      "ayet_bas": 152,
+      "ayet_bit": 153
+    },
+    {
+      "satir": 229329,
+      "ayet_bas": 150,
+      "ayet_bit": 150
+    },
+    {
+      "satir": 229384,
+      "ayet_bas": 155,
+      "ayet_bit": 155
+    },
+    {
+      "satir": 229723,
+      "ayet_bas": 156,
+      "ayet_bit": 156
+    },
+    {
+      "satir": 229815,
+      "ayet_bas": 157,
+      "ayet_bit": 157
+    },
+    {
+      "satir": 230054,
+      "ayet_bas": 158,
+      "ayet_bit": 158
+    },
+    {
+      "satir": 230392,
+      "ayet_bas": 160,
+      "ayet_bit": 160
+    },
+    {
+      "satir": 230485,
+      "ayet_bas": 161,
+      "ayet_bit": 162
+    },
+    {
+      "satir": 230680,
+      "ayet_bas": 164,
+      "ayet_bit": 165
+    },
+    {
+      "satir": 230881,
+      "ayet_bas": 167,
+      "ayet_bit": 167
+    },
+    {
+      "satir": 231029,
+      "ayet_bas": 169,
+      "ayet_bit": 170
+    },
+    {
+      "satir": 231128,
+      "ayet_bas": 171,
+      "ayet_bit": 171
+    },
+    {
+      "satir": 232026,
+      "ayet_bas": 179,
+      "ayet_bit": 179
+    },
+    {
+      "satir": 232751,
+      "ayet_bas": 181,
+      "ayet_bit": 181
+    },
+    {
+      "satir": 233453,
+      "ayet_bas": 188,
+      "ayet_bit": 188
+    },
+    {
+      "satir": 233605,
+      "ayet_bas": 189,
+      "ayet_bit": 190
+    },
+    {
+      "satir": 234101,
+      "ayet_bas": 196,
+      "ayet_bit": 198
+    },
+    {
+      "satir": 234195,
+      "ayet_bas": 199,
+      "ayet_bit": 199
+    },
+    {
+      "satir": 234279,
+      "ayet_bas": 200,
+      "ayet_bit": 200
+    },
+    {
+      "satir": 234601,
+      "ayet_bas": 203,
+      "ayet_bit": 203
+    }
+  ],
+  "8": [
+    {
+      "satir": 235310,
+      "ayet_bas": 1,
+      "ayet_bit": 1
+    },
+    {
+      "satir": 235546,
+      "ayet_bas": 2,
+      "ayet_bit": 4
+    },
+    {
+      "satir": 236201,
+      "ayet_bas": 7,
+      "ayet_bit": 8
+    },
+    {
+      "satir": 236279,
+      "ayet_bas": 910,
+      "ayet_bit": 910
+    },
+    {
+      "satir": 236436,
+      "ayet_bas": 11,
+      "ayet_bit": 13
+    },
+    {
+      "satir": 236956,
+      "ayet_bas": 17,
+      "ayet_bit": 17
+    },
+    {
+      "satir": 237235,
+      "ayet_bas": 20,
+      "ayet_bit": 23
+    },
+    {
+      "satir": 237855,
+      "ayet_bas": 29,
+      "ayet_bit": 29
+    },
+    {
+      "satir": 237974,
+      "ayet_bas": 30,
+      "ayet_bit": 30
+    },
+    {
+      "satir": 238068,
+      "ayet_bas": 31,
+      "ayet_bit": 34
+    },
+    {
+      "satir": 238767,
+      "ayet_bas": 42,
+      "ayet_bit": 42
+    },
+    {
+      "satir": 238902,
+      "ayet_bas": 43,
+      "ayet_bit": 43
+    },
+    {
+      "satir": 239395,
+      "ayet_bas": 49,
+      "ayet_bit": 49
+    },
+    {
+      "satir": 239446,
+      "ayet_bas": 50,
+      "ayet_bit": 51
+    },
+    {
+      "satir": 239652,
+      "ayet_bas": 52,
+      "ayet_bit": 54
+    },
+    {
+      "satir": 239834,
+      "ayet_bas": 57,
+      "ayet_bit": 58
+    },
+    {
+      "satir": 240001,
+      "ayet_bas": 60,
+      "ayet_bit": 60
+    },
+    {
+      "satir": 240163,
+      "ayet_bas": 61,
+      "ayet_bit": 61
+    },
+    {
+      "satir": 240221,
+      "ayet_bas": 62,
+      "ayet_bit": 63
+    },
+    {
+      "satir": 240413,
+      "ayet_bas": 6465,
+      "ayet_bit": 6465
+    },
+    {
+      "satir": 241221,
+      "ayet_bas": 70,
+      "ayet_bit": 71
+    }
+  ],
+  "9": [
+    {
+      "satir": 242135,
+      "ayet_bas": 4,
+      "ayet_bit": 4
+    },
+    {
+      "satir": 242309,
+      "ayet_bas": 3,
+      "ayet_bit": 3
+    },
+    {
+      "satir": 242556,
+      "ayet_bas": 5,
+      "ayet_bit": 5
+    },
+    {
+      "satir": 242707,
+      "ayet_bas": 6,
+      "ayet_bit": 6
+    },
+    {
+      "satir": 242895,
+      "ayet_bas": 7,
+      "ayet_bit": 7
+    },
+    {
+      "satir": 243087,
+      "ayet_bas": 11,
+      "ayet_bit": 12
+    },
+    {
+      "satir": 243265,
+      "ayet_bas": 13,
+      "ayet_bit": 13
+    },
+    {
+      "satir": 243402,
+      "ayet_bas": 14,
+      "ayet_bit": 15
+    },
+    {
+      "satir": 243703,
+      "ayet_bas": 17,
+      "ayet_bit": 18
+    },
+    {
+      "satir": 244024,
+      "ayet_bas": 19,
+      "ayet_bit": 19
+    },
+    {
+      "satir": 244160,
+      "ayet_bas": 20,
+      "ayet_bit": 22
+    },
+    {
+      "satir": 244488,
+      "ayet_bas": 24,
+      "ayet_bit": 24
+    },
+    {
+      "satir": 244554,
+      "ayet_bas": 25,
+      "ayet_bit": 27
+    },
+    {
+      "satir": 244770,
+      "ayet_bas": 28,
+      "ayet_bit": 28
+    },
+    {
+      "satir": 245844,
+      "ayet_bas": 33,
+      "ayet_bit": 33
+    },
+    {
+      "satir": 246486,
+      "ayet_bas": 36,
+      "ayet_bit": 36
+    },
+    {
+      "satir": 246859,
+      "ayet_bas": 37,
+      "ayet_bit": 37
+    },
+    {
+      "satir": 247054,
+      "ayet_bas": 38,
+      "ayet_bit": 38
+    },
+    {
+      "satir": 247185,
+      "ayet_bas": 39,
+      "ayet_bit": 39
+    },
+    {
+      "satir": 247307,
+      "ayet_bas": 40,
+      "ayet_bit": 40
+    },
+    {
+      "satir": 247742,
+      "ayet_bas": 41,
+      "ayet_bit": 41
+    },
+    {
+      "satir": 248001,
+      "ayet_bas": 43,
+      "ayet_bit": 43
+    },
+    {
+      "satir": 248488,
+      "ayet_bas": 87,
+      "ayet_bit": 87
+    },
+    {
+      "satir": 248526,
+      "ayet_bas": 47,
+      "ayet_bit": 47
+    },
+    {
+      "satir": 248956,
+      "ayet_bas": 52,
+      "ayet_bit": 52
+    },
+    {
+      "satir": 249018,
+      "ayet_bas": 53,
+      "ayet_bit": 53
+    },
+    {
+      "satir": 249122,
+      "ayet_bas": 54,
+      "ayet_bit": 54
+    },
+    {
+      "satir": 250766,
+      "ayet_bas": 61,
+      "ayet_bit": 61
+    },
+    {
+      "satir": 250966,
+      "ayet_bas": 62,
+      "ayet_bit": 62
+    },
+    {
+      "satir": 251101,
+      "ayet_bas": 64,
+      "ayet_bit": 64
+    },
+    {
+      "satir": 251545,
+      "ayet_bas": 68,
+      "ayet_bit": 69
+    },
+    {
+      "satir": 251721,
+      "ayet_bas": 71,
+      "ayet_bit": 71
+    },
+    {
+      "satir": 251793,
+      "ayet_bas": 72,
+      "ayet_bit": 72
+    },
+    {
+      "satir": 251938,
+      "ayet_bas": 73,
+      "ayet_bit": 73
+    },
+    {
+      "satir": 252154,
+      "ayet_bas": 75,
+      "ayet_bit": 78
+    },
+    {
+      "satir": 252589,
+      "ayet_bas": 79,
+      "ayet_bit": 79
+    },
+    {
+      "satir": 252685,
+      "ayet_bas": 80,
+      "ayet_bit": 80
+    },
+    {
+      "satir": 252858,
+      "ayet_bas": 81,
+      "ayet_bit": 82
+    },
+    {
+      "satir": 253254,
+      "ayet_bas": 54,
+      "ayet_bit": 54
+    },
+    {
+      "satir": 253442,
+      "ayet_bas": 8889,
+      "ayet_bit": 8889
+    },
+    {
+      "satir": 253772,
+      "ayet_bas": 95,
+      "ayet_bit": 96
+    },
+    {
+      "satir": 253829,
+      "ayet_bas": 97,
+      "ayet_bit": 98
+    },
+    {
+      "satir": 253994,
+      "ayet_bas": 99,
+      "ayet_bit": 99
+    },
+    {
+      "satir": 254049,
+      "ayet_bas": 100,
+      "ayet_bit": 100
+    },
+    {
+      "satir": 254318,
+      "ayet_bas": 101,
+      "ayet_bit": 101
+    },
+    {
+      "satir": 254427,
+      "ayet_bas": 102,
+      "ayet_bit": 103
+    },
+    {
+      "satir": 254443,
+      "ayet_bas": 101,
+      "ayet_bit": 101
+    },
+    {
+      "satir": 255068,
+      "ayet_bas": 104,
+      "ayet_bit": 104
+    },
+    {
+      "satir": 255782,
+      "ayet_bas": 108,
+      "ayet_bit": 110
+    },
+    {
+      "satir": 256284,
+      "ayet_bas": 112,
+      "ayet_bit": 112
+    },
+    {
+      "satir": 256697,
+      "ayet_bas": 113,
+      "ayet_bit": 114
+    },
+    {
+      "satir": 256906,
+      "ayet_bas": 84,
+      "ayet_bit": 84
+    },
+    {
+      "satir": 257092,
+      "ayet_bas": 117,
+      "ayet_bit": 117
+    },
+    {
+      "satir": 257524,
+      "ayet_bas": 119,
+      "ayet_bit": 119
+    },
+    {
+      "satir": 257705,
+      "ayet_bas": 120,
+      "ayet_bit": 121
+    },
+    {
+      "satir": 258051,
+      "ayet_bas": 123,
+      "ayet_bit": 123
+    },
+    {
+      "satir": 258182,
+      "ayet_bas": 124,
+      "ayet_bit": 125
+    },
+    {
+      "satir": 258347,
+      "ayet_bas": 127,
+      "ayet_bit": 127
+    },
+    {
+      "satir": 258600,
+      "ayet_bas": 129,
+      "ayet_bit": 129
+    }
+  ],
+  "10": [
+    {
+      "satir": 258703,
+      "ayet_bas": 1,
+      "ayet_bit": 1
+    },
+    {
+      "satir": 258869,
+      "ayet_bas": 2,
+      "ayet_bit": 2
+    },
+    {
+      "satir": 261052,
+      "ayet_bas": 6,
+      "ayet_bit": 6
+    },
+    {
+      "satir": 261098,
+      "ayet_bas": 7,
+      "ayet_bit": 8
+    },
+    {
+      "satir": 261270,
+      "ayet_bas": 9,
+      "ayet_bit": 10
+    },
+    {
+      "satir": 261687,
+      "ayet_bas": 11,
+      "ayet_bit": 11
+    },
+    {
+      "satir": 262233,
+      "ayet_bas": 15,
+      "ayet_bit": 15
+    },
+    {
+      "satir": 262531,
+      "ayet_bas": 18,
+      "ayet_bit": 18
+    },
+    {
+      "satir": 262829,
+      "ayet_bas": 20,
+      "ayet_bit": 20
+    },
+    {
+      "satir": 262871,
+      "ayet_bas": 21,
+      "ayet_bit": 21
+    },
+    {
+      "satir": 263022,
+      "ayet_bas": 22,
+      "ayet_bit": 23
+    },
+    {
+      "satir": 263031,
+      "ayet_bas": 21,
+      "ayet_bit": 21
+    },
+    {
+      "satir": 263514,
+      "ayet_bas": 25,
+      "ayet_bit": 25
+    },
+    {
+      "satir": 263669,
+      "ayet_bas": 26,
+      "ayet_bit": 26
+    },
+    {
+      "satir": 263840,
+      "ayet_bas": 27,
+      "ayet_bit": 27
+    },
+    {
+      "satir": 264259,
+      "ayet_bas": 31,
+      "ayet_bit": 33
+    },
+    {
+      "satir": 264418,
+      "ayet_bas": 34,
+      "ayet_bit": 34
+    },
+    {
+      "satir": 264468,
+      "ayet_bas": 35,
+      "ayet_bit": 36
+    },
+    {
+      "satir": 264711,
+      "ayet_bas": 37,
+      "ayet_bit": 39
+    },
+    {
+      "satir": 265071,
+      "ayet_bas": 40,
+      "ayet_bit": 41
+    },
+    {
+      "satir": 265576,
+      "ayet_bas": 48,
+      "ayet_bit": 49
+    },
+    {
+      "satir": 265606,
+      "ayet_bas": 47,
+      "ayet_bit": 47
+    },
+    {
+      "satir": 265689,
+      "ayet_bas": 50,
+      "ayet_bit": 52
+    },
+    {
+      "satir": 265691,
+      "ayet_bas": 48,
+      "ayet_bit": 48
+    },
+    {
+      "satir": 265810,
+      "ayet_bas": 53,
+      "ayet_bit": 54
+    },
+    {
+      "satir": 266040,
+      "ayet_bas": 57,
+      "ayet_bit": 56
+    },
+    {
+      "satir": 266058,
+      "ayet_bas": 37,
+      "ayet_bit": 38
+    },
+    {
+      "satir": 266371,
+      "ayet_bas": 59,
+      "ayet_bit": 60
+    },
+    {
+      "satir": 266975,
+      "ayet_bas": 62,
+      "ayet_bit": 62
+    },
+    {
+      "satir": 267078,
+      "ayet_bas": 67,
+      "ayet_bit": 67
+    },
+    {
+      "satir": 267104,
+      "ayet_bas": 66,
+      "ayet_bit": 66
+    },
+    {
+      "satir": 267238,
+      "ayet_bas": 71,
+      "ayet_bit": 72
+    },
+    {
+      "satir": 267485,
+      "ayet_bas": 73,
+      "ayet_bit": 73
+    },
+    {
+      "satir": 267506,
+      "ayet_bas": 74,
+      "ayet_bit": 74
+    },
+    {
+      "satir": 267547,
+      "ayet_bas": 75,
+      "ayet_bit": 77
+    },
+    {
+      "satir": 267571,
+      "ayet_bas": 78,
+      "ayet_bit": 82
+    },
+    {
+      "satir": 267687,
+      "ayet_bas": 83,
+      "ayet_bit": 83
+    },
+    {
+      "satir": 267772,
+      "ayet_bas": 84,
+      "ayet_bit": 86
+    },
+    {
+      "satir": 268263,
+      "ayet_bas": 90,
+      "ayet_bit": 92
+    },
+    {
+      "satir": 269059,
+      "ayet_bas": 99,
+      "ayet_bit": 100
+    },
+    {
+      "satir": 269137,
+      "ayet_bas": 96,
+      "ayet_bit": 97
+    },
+    {
+      "satir": 269253,
+      "ayet_bas": 101,
+      "ayet_bit": 101
+    },
+    {
+      "satir": 269340,
+      "ayet_bas": 102,
+      "ayet_bit": 103
+    },
+    {
+      "satir": 269578,
+      "ayet_bas": 107,
+      "ayet_bit": 107
+    },
+    {
+      "satir": 269658,
+      "ayet_bas": 108,
+      "ayet_bit": 108
+    }
+  ],
+  "11": [
+    {
+      "satir": 269914,
+      "ayet_bas": 2,
+      "ayet_bit": 4
+    },
+    {
+      "satir": 270497,
+      "ayet_bas": 8,
+      "ayet_bit": 8
+    },
+    {
+      "satir": 270568,
+      "ayet_bas": 9,
+      "ayet_bit": 11
+    },
+    {
+      "satir": 271453,
+      "ayet_bas": 18,
+      "ayet_bit": 19
+    },
+    {
+      "satir": 271736,
+      "ayet_bas": 23,
+      "ayet_bit": 23
+    },
+    {
+      "satir": 271768,
+      "ayet_bas": 24,
+      "ayet_bit": 24
+    },
+    {
+      "satir": 271814,
+      "ayet_bas": 25,
+      "ayet_bit": 26
+    },
+    {
+      "satir": 271864,
+      "ayet_bas": 27,
+      "ayet_bit": 27
+    },
+    {
+      "satir": 272003,
+      "ayet_bas": 28,
+      "ayet_bit": 28
+    },
+    {
+      "satir": 272557,
+      "ayet_bas": 37,
+      "ayet_bit": 37
+    },
+    {
+      "satir": 273502,
+      "ayet_bas": 45,
+      "ayet_bit": 47
+    },
+    {
+      "satir": 273834,
+      "ayet_bas": 49,
+      "ayet_bit": 49
+    },
+    {
+      "satir": 273984,
+      "ayet_bas": 52,
+      "ayet_bit": 52
+    },
+    {
+      "satir": 274162,
+      "ayet_bas": 57,
+      "ayet_bit": 57
+    },
+    {
+      "satir": 274323,
+      "ayet_bas": 61,
+      "ayet_bit": 62
+    },
+    {
+      "satir": 274479,
+      "ayet_bas": 6465,
+      "ayet_bit": 6465
+    },
+    {
+      "satir": 274741,
+      "ayet_bas": 69,
+      "ayet_bit": 71
+    },
+    {
+      "satir": 275181,
+      "ayet_bas": 74,
+      "ayet_bit": 75
+    },
+    {
+      "satir": 275370,
+      "ayet_bas": 78,
+      "ayet_bit": 80
+    },
+    {
+      "satir": 275645,
+      "ayet_bas": 81,
+      "ayet_bit": 81
+    },
+    {
+      "satir": 275757,
+      "ayet_bas": 82,
+      "ayet_bit": 83
+    },
+    {
+      "satir": 275946,
+      "ayet_bas": 84,
+      "ayet_bit": 86
+    },
+    {
+      "satir": 276262,
+      "ayet_bas": 66,
+      "ayet_bit": 90
+    },
+    {
+      "satir": 276488,
+      "ayet_bas": 91,
+      "ayet_bit": 91
+    },
+    {
+      "satir": 277162,
+      "ayet_bas": 105,
+      "ayet_bit": 108
+    },
+    {
+      "satir": 277720,
+      "ayet_bas": 110,
+      "ayet_bit": 111
+    },
+    {
+      "satir": 277850,
+      "ayet_bas": 112,
+      "ayet_bit": 113
+    }
+  ],
+  "12": [
+    {
+      "satir": 280103,
+      "ayet_bas": 19,
+      "ayet_bit": 20
+    },
+    {
+      "satir": 280324,
+      "ayet_bas": 21,
+      "ayet_bit": 21
+    },
+    {
+      "satir": 280456,
+      "ayet_bas": 22,
+      "ayet_bit": 22
+    },
+    {
+      "satir": 280894,
+      "ayet_bas": 26,
+      "ayet_bit": 27
+    },
+    {
+      "satir": 284466,
+      "ayet_bas": 66,
+      "ayet_bit": 66
+    },
+    {
+      "satir": 284511,
+      "ayet_bas": 67,
+      "ayet_bit": 67
+    },
+    {
+      "satir": 285165,
+      "ayet_bas": 77,
+      "ayet_bit": 77
+    },
+    {
+      "satir": 285305,
+      "ayet_bas": 78,
+      "ayet_bit": 79
+    },
+    {
+      "satir": 286449,
+      "ayet_bas": 77,
+      "ayet_bit": 77
+    },
+    {
+      "satir": 286727,
+      "ayet_bas": 94,
+      "ayet_bit": 98
+    }
+  ],
+  "13": [
+    {
+      "satir": 288169,
+      "ayet_bas": 31,
+      "ayet_bit": 31
+    },
+    {
+      "satir": 288462,
+      "ayet_bas": 3,
+      "ayet_bit": 3
+    },
+    {
+      "satir": 288984,
+      "ayet_bas": 6,
+      "ayet_bit": 6
+    },
+    {
+      "satir": 289497,
+      "ayet_bas": 11,
+      "ayet_bit": 11
+    },
+    {
+      "satir": 290276,
+      "ayet_bas": 15,
+      "ayet_bit": 15
+    },
+    {
+      "satir": 290361,
+      "ayet_bas": 16,
+      "ayet_bit": 16
+    },
+    {
+      "satir": 290575,
+      "ayet_bas": 17,
+      "ayet_bit": 19
+    },
+    {
+      "satir": 291913,
+      "ayet_bas": 32,
+      "ayet_bit": 34
+    },
+    {
+      "satir": 292249,
+      "ayet_bas": 36,
+      "ayet_bit": 36
+    },
+    {
+      "satir": 292425,
+      "ayet_bas": 36,
+      "ayet_bit": 39
+    },
+    {
+      "satir": 292865,
+      "ayet_bas": 43,
+      "ayet_bit": 43
+    }
+  ],
+  "14": [
+    {
+      "satir": 295146,
+      "ayet_bas": 18,
+      "ayet_bit": 20
+    },
+    {
+      "satir": 298182,
+      "ayet_bas": 42,
+      "ayet_bit": 42
+    }
+  ],
+  "15": [
+    {
+      "satir": 298276,
+      "ayet_bas": 1,
+      "ayet_bit": 3
+    },
+    {
+      "satir": 298718,
+      "ayet_bas": 5,
+      "ayet_bit": 8
+    },
+    {
+      "satir": 298860,
+      "ayet_bas": 9,
+      "ayet_bit": 9
+    },
+    {
+      "satir": 299007,
+      "ayet_bas": 10,
+      "ayet_bit": 13
+    },
+    {
+      "satir": 299265,
+      "ayet_bas": 14,
+      "ayet_bit": 15
+    },
+    {
+      "satir": 299397,
+      "ayet_bas": 16,
+      "ayet_bit": 10
+    },
+    {
+      "satir": 299517,
+      "ayet_bas": 19,
+      "ayet_bit": 20
+    },
+    {
+      "satir": 300054,
+      "ayet_bas": 26,
+      "ayet_bit": 27
+    },
+    {
+      "satir": 300459,
+      "ayet_bas": 36,
+      "ayet_bit": 41
+    },
+    {
+      "satir": 300957,
+      "ayet_bas": 42,
+      "ayet_bit": 42
+    },
+    {
+      "satir": 301206,
+      "ayet_bas": 51,
+      "ayet_bit": 56
+    },
+    {
+      "satir": 301655,
+      "ayet_bas": 65,
+      "ayet_bit": 66
+    },
+    {
+      "satir": 301719,
+      "ayet_bas": 67,
+      "ayet_bit": 77
+    },
+    {
+      "satir": 301830,
+      "ayet_bas": 67,
+      "ayet_bit": 67
+    },
+    {
+      "satir": 301851,
+      "ayet_bas": 78,
+      "ayet_bit": 79
+    },
+    {
+      "satir": 301890,
+      "ayet_bas": 80,
+      "ayet_bit": 84
+    },
+    {
+      "satir": 301929,
+      "ayet_bas": 85,
+      "ayet_bit": 86
+    },
+    {
+      "satir": 302000,
+      "ayet_bas": 87,
+      "ayet_bit": 86
+    },
+    {
+      "satir": 302301,
+      "ayet_bas": 89,
+      "ayet_bit": 91
+    }
+  ],
+  "16": [
+    {
+      "satir": 302953,
+      "ayet_bas": 3,
+      "ayet_bit": 3
+    },
+    {
+      "satir": 303053,
+      "ayet_bas": 4,
+      "ayet_bit": 4
+    },
+    {
+      "satir": 303530,
+      "ayet_bas": 9,
+      "ayet_bit": 9
+    },
+    {
+      "satir": 303619,
+      "ayet_bas": 10,
+      "ayet_bit": 11
+    },
+    {
+      "satir": 303802,
+      "ayet_bas": 1213,
+      "ayet_bit": 1213
+    },
+    {
+      "satir": 304361,
+      "ayet_bas": 1721,
+      "ayet_bit": 1721
+    },
+    {
+      "satir": 304674,
+      "ayet_bas": 22,
+      "ayet_bit": 23
+    },
+    {
+      "satir": 304713,
+      "ayet_bas": 24,
+      "ayet_bit": 25
+    },
+    {
+      "satir": 304841,
+      "ayet_bas": 28,
+      "ayet_bit": 29
+    },
+    {
+      "satir": 305523,
+      "ayet_bas": 38,
+      "ayet_bit": 40
+    },
+    {
+      "satir": 305765,
+      "ayet_bas": 41,
+      "ayet_bit": 42
+    },
+    {
+      "satir": 306677,
+      "ayet_bas": 51,
+      "ayet_bit": 55
+    },
+    {
+      "satir": 307381,
+      "ayet_bas": 61,
+      "ayet_bit": 64
+    },
+    {
+      "satir": 308190,
+      "ayet_bas": 68,
+      "ayet_bit": 69
+    },
+    {
+      "satir": 308474,
+      "ayet_bas": 70,
+      "ayet_bit": 70
+    },
+    {
+      "satir": 308978,
+      "ayet_bas": 73,
+      "ayet_bit": 74
+    },
+    {
+      "satir": 309640,
+      "ayet_bas": 81,
+      "ayet_bit": 83
+    },
+    {
+      "satir": 309831,
+      "ayet_bas": 84,
+      "ayet_bit": 35
+    },
+    {
+      "satir": 309887,
+      "ayet_bas": 68,
+      "ayet_bit": 87
+    },
+    {
+      "satir": 310026,
+      "ayet_bas": 89,
+      "ayet_bit": 89
+    },
+    {
+      "satir": 310149,
+      "ayet_bas": 90,
+      "ayet_bit": 90
+    },
+    {
+      "satir": 310564,
+      "ayet_bas": 91,
+      "ayet_bit": 92
+    },
+    {
+      "satir": 310787,
+      "ayet_bas": 93,
+      "ayet_bit": 93
+    },
+    {
+      "satir": 311506,
+      "ayet_bas": 106,
+      "ayet_bit": 109
+    },
+    {
+      "satir": 312200,
+      "ayet_bas": 115,
+      "ayet_bit": 115
+    },
+    {
+      "satir": 312353,
+      "ayet_bas": 119,
+      "ayet_bit": 119
+    },
+    {
+      "satir": 312389,
+      "ayet_bas": 120,
+      "ayet_bit": 123
+    },
+    {
+      "satir": 312627,
+      "ayet_bas": 125,
+      "ayet_bit": 125
+    },
+    {
+      "satir": 312763,
+      "ayet_bas": 126,
+      "ayet_bit": 128
+    }
+  ],
+  "17": [
+    {
+      "satir": 312969,
+      "ayet_bas": 1,
+      "ayet_bit": 1
+    },
+    {
+      "satir": 313578,
+      "ayet_bas": 4,
+      "ayet_bit": 6
+    },
+    {
+      "satir": 315274,
+      "ayet_bas": 22,
+      "ayet_bit": 22
+    },
+    {
+      "satir": 316264,
+      "ayet_bas": 31,
+      "ayet_bit": 31
+    },
+    {
+      "satir": 317008,
+      "ayet_bas": 36,
+      "ayet_bit": 36
+    },
+    {
+      "satir": 317260,
+      "ayet_bas": 37,
+      "ayet_bit": 38
+    },
+    {
+      "satir": 317437,
+      "ayet_bas": 28,
+      "ayet_bit": 28
+    },
+    {
+      "satir": 318637,
+      "ayet_bas": 58,
+      "ayet_bit": 58
+    },
+    {
+      "satir": 318671,
+      "ayet_bas": 90,
+      "ayet_bit": 90
+    },
+    {
+      "satir": 319571,
+      "ayet_bas": 6649,
+      "ayet_bit": 6649
+    },
+    {
+      "satir": 322408,
+      "ayet_bas": 66,
+      "ayet_bit": 87
+    },
+    {
+      "satir": 322851,
+      "ayet_bas": 94,
+      "ayet_bit": 96
+    },
+    {
+      "satir": 322900,
+      "ayet_bas": 97,
+      "ayet_bit": 97
+    },
+    {
+      "satir": 323015,
+      "ayet_bas": 98,
+      "ayet_bit": 100
+    }
+  ],
+  "18": [
+    {
+      "satir": 324294,
+      "ayet_bas": 7,
+      "ayet_bit": 8
+    },
+    {
+      "satir": 324445,
+      "ayet_bas": 9,
+      "ayet_bit": 12
+    },
+    {
+      "satir": 325657,
+      "ayet_bas": 13,
+      "ayet_bit": 15
+    },
+    {
+      "satir": 325730,
+      "ayet_bas": 16,
+      "ayet_bit": 17
+    },
+    {
+      "satir": 326357,
+      "ayet_bas": 23,
+      "ayet_bit": 26
+    },
+    {
+      "satir": 326788,
+      "ayet_bas": 27,
+      "ayet_bit": 27
+    },
+    {
+      "satir": 326833,
+      "ayet_bas": 28,
+      "ayet_bit": 28
+    },
+    {
+      "satir": 327094,
+      "ayet_bas": 29,
+      "ayet_bit": 29
+    },
+    {
+      "satir": 327268,
+      "ayet_bas": 30,
+      "ayet_bit": 31
+    },
+    {
+      "satir": 327905,
+      "ayet_bas": 45,
+      "ayet_bit": 45
+    },
+    {
+      "satir": 327951,
+      "ayet_bas": 46,
+      "ayet_bit": 46
+    },
+    {
+      "satir": 328044,
+      "ayet_bas": 4749,
+      "ayet_bit": 4749
+    },
+    {
+      "satir": 328836,
+      "ayet_bas": 60,
+      "ayet_bit": 64
+    },
+    {
+      "satir": 329595,
+      "ayet_bas": 71,
+      "ayet_bit": 73
+    },
+    {
+      "satir": 329759,
+      "ayet_bas": 77,
+      "ayet_bit": 78
+    },
+    {
+      "satir": 330258,
+      "ayet_bas": 83,
+      "ayet_bit": 85
+    },
+    {
+      "satir": 330625,
+      "ayet_bas": 90,
+      "ayet_bit": 91
+    },
+    {
+      "satir": 330673,
+      "ayet_bas": 92,
+      "ayet_bit": 95
+    },
+    {
+      "satir": 330946,
+      "ayet_bas": 102,
+      "ayet_bit": 106
+    },
+    {
+      "satir": 331079,
+      "ayet_bas": 107,
+      "ayet_bit": 108
+    },
+    {
+      "satir": 331162,
+      "ayet_bas": 109,
+      "ayet_bit": 110
+    }
+  ],
+  "19": [
+    {
+      "satir": 331420,
+      "ayet_bas": 2,
+      "ayet_bit": 2
+    },
+    {
+      "satir": 331954,
+      "ayet_bas": 7,
+      "ayet_bit": 7
+    },
+    {
+      "satir": 331964,
+      "ayet_bas": 5,
+      "ayet_bit": 5
+    },
+    {
+      "satir": 332189,
+      "ayet_bas": 7,
+      "ayet_bit": 7
+    },
+    {
+      "satir": 332219,
+      "ayet_bas": 9,
+      "ayet_bit": 9
+    },
+    {
+      "satir": 332297,
+      "ayet_bas": 10,
+      "ayet_bit": 10
+    },
+    {
+      "satir": 332785,
+      "ayet_bas": 16,
+      "ayet_bit": 17
+    },
+    {
+      "satir": 332959,
+      "ayet_bas": 18,
+      "ayet_bit": 18
+    },
+    {
+      "satir": 333093,
+      "ayet_bas": 20,
+      "ayet_bit": 21
+    },
+    {
+      "satir": 333212,
+      "ayet_bas": 22,
+      "ayet_bit": 23
+    },
+    {
+      "satir": 333810,
+      "ayet_bas": 27,
+      "ayet_bit": 29
+    },
+    {
+      "satir": 333954,
+      "ayet_bas": 30,
+      "ayet_bit": 33
+    },
+    {
+      "satir": 334588,
+      "ayet_bas": 34,
+      "ayet_bit": 35
+    },
+    {
+      "satir": 334768,
+      "ayet_bas": 36,
+      "ayet_bit": 40
+    },
+    {
+      "satir": 335063,
+      "ayet_bas": 41,
+      "ayet_bit": 45
+    },
+    {
+      "satir": 335812,
+      "ayet_bas": 54,
+      "ayet_bit": 55
+    },
+    {
+      "satir": 336043,
+      "ayet_bas": 59,
+      "ayet_bit": 60
+    },
+    {
+      "satir": 336348,
+      "ayet_bas": 35,
+      "ayet_bit": 35
+    },
+    {
+      "satir": 336706,
+      "ayet_bas": 71,
+      "ayet_bit": 72
+    },
+    {
+      "satir": 337083,
+      "ayet_bas": 7576,
+      "ayet_bit": 7576
+    },
+    {
+      "satir": 337306,
+      "ayet_bas": 1,
+      "ayet_bit": 87
+    },
+    {
+      "satir": 337587,
+      "ayet_bas": 88,
+      "ayet_bit": 95
+    },
+    {
+      "satir": 337727,
+      "ayet_bas": 96,
+      "ayet_bit": 98
+    },
+    {
+      "satir": 337757,
+      "ayet_bas": 96,
+      "ayet_bit": 96
+    }
+  ],
+  "20": [
+    {
+      "satir": 339533,
+      "ayet_bas": 15,
+      "ayet_bit": 16
+    },
+    {
+      "satir": 339842,
+      "ayet_bas": 1721,
+      "ayet_bit": 1721
+    },
+    {
+      "satir": 340394,
+      "ayet_bas": 25,
+      "ayet_bit": 35
+    },
+    {
+      "satir": 341984,
+      "ayet_bas": 36,
+      "ayet_bit": 44
+    },
+    {
+      "satir": 342786,
+      "ayet_bas": 45,
+      "ayet_bit": 46
+    },
+    {
+      "satir": 344405,
+      "ayet_bas": 65,
+      "ayet_bit": 69
+    },
+    {
+      "satir": 344757,
+      "ayet_bas": 70,
+      "ayet_bit": 71
+    },
+    {
+      "satir": 345648,
+      "ayet_bas": 6344,
+      "ayet_bit": 6344
+    },
+    {
+      "satir": 346191,
+      "ayet_bas": 90,
+      "ayet_bit": 91
+    },
+    {
+      "satir": 346315,
+      "ayet_bas": 92,
+      "ayet_bit": 94
+    },
+    {
+      "satir": 346783,
+      "ayet_bas": 99,
+      "ayet_bit": 104
+    },
+    {
+      "satir": 347425,
+      "ayet_bas": 113,
+      "ayet_bit": 114
+    }
+  ],
+  "21": [
+    {
+      "satir": 348902,
+      "ayet_bas": 1,
+      "ayet_bit": 3
+    },
+    {
+      "satir": 349206,
+      "ayet_bas": 4,
+      "ayet_bit": 6
+    },
+    {
+      "satir": 349455,
+      "ayet_bas": 11,
+      "ayet_bit": 15
+    },
+    {
+      "satir": 349647,
+      "ayet_bas": 19,
+      "ayet_bit": 20
+    },
+    {
+      "satir": 349765,
+      "ayet_bas": 21,
+      "ayet_bit": 25
+    },
+    {
+      "satir": 351360,
+      "ayet_bas": 34,
+      "ayet_bit": 36
+    },
+    {
+      "satir": 351753,
+      "ayet_bas": 42,
+      "ayet_bit": 44
+    },
+    {
+      "satir": 352152,
+      "ayet_bas": 48,
+      "ayet_bit": 50
+    },
+    {
+      "satir": 352263,
+      "ayet_bas": 51,
+      "ayet_bit": 55
+    },
+    {
+      "satir": 352673,
+      "ayet_bas": 52,
+      "ayet_bit": 52
+    },
+    {
+      "satir": 352701,
+      "ayet_bas": 61,
+      "ayet_bit": 67
+    },
+    {
+      "satir": 353155,
+      "ayet_bas": 72,
+      "ayet_bit": 73
+    },
+    {
+      "satir": 353285,
+      "ayet_bas": 74,
+      "ayet_bit": 75
+    },
+    {
+      "satir": 353350,
+      "ayet_bas": 76,
+      "ayet_bit": 77
+    },
+    {
+      "satir": 355458,
+      "ayet_bas": 91,
+      "ayet_bit": 91
+    },
+    {
+      "satir": 355529,
+      "ayet_bas": 92,
+      "ayet_bit": 93
+    },
+    {
+      "satir": 356237,
+      "ayet_bas": 104107,
+      "ayet_bit": 104107
+    }
+  ],
+  "22": [
+    {
+      "satir": 356836,
+      "ayet_bas": 1,
+      "ayet_bit": 2
+    },
+    {
+      "satir": 357572,
+      "ayet_bas": 8,
+      "ayet_bit": 10
+    },
+    {
+      "satir": 357914,
+      "ayet_bas": 1416,
+      "ayet_bit": 1416
+    },
+    {
+      "satir": 358097,
+      "ayet_bas": 17,
+      "ayet_bit": 18
+    },
+    {
+      "satir": 359358,
+      "ayet_bas": 33,
+      "ayet_bit": 36
+    },
+    {
+      "satir": 360110,
+      "ayet_bas": 42,
+      "ayet_bit": 46
+    },
+    {
+      "satir": 360416,
+      "ayet_bas": 47,
+      "ayet_bit": 49
+    },
+    {
+      "satir": 360582,
+      "ayet_bas": 52,
+      "ayet_bit": 57
+    },
+    {
+      "satir": 361253,
+      "ayet_bas": 58,
+      "ayet_bit": 62
+    },
+    {
+      "satir": 361654,
+      "ayet_bas": 6346,
+      "ayet_bit": 6346
+    },
+    {
+      "satir": 361858,
+      "ayet_bas": 67,
+      "ayet_bit": 69
+    },
+    {
+      "satir": 362139,
+      "ayet_bas": 7374,
+      "ayet_bit": 7374
+    },
+    {
+      "satir": 362270,
+      "ayet_bas": 75,
+      "ayet_bit": 76
+    },
+    {
+      "satir": 362343,
+      "ayet_bas": 77,
+      "ayet_bit": 78
+    }
+  ],
+  "23": [
+    {
+      "satir": 363901,
+      "ayet_bas": 2325,
+      "ayet_bit": 2325
+    },
+    {
+      "satir": 364573,
+      "ayet_bas": 42,
+      "ayet_bit": 44
+    },
+    {
+      "satir": 365089,
+      "ayet_bas": 57,
+      "ayet_bit": 61
+    },
+    {
+      "satir": 365561,
+      "ayet_bas": 7375,
+      "ayet_bit": 7375
+    }
+  ],
+  "24": [
+    {
+      "satir": 366802,
+      "ayet_bas": 1,
+      "ayet_bit": 1
+    },
+    {
+      "satir": 366919,
+      "ayet_bas": 2,
+      "ayet_bit": 2
+    },
+    {
+      "satir": 368830,
+      "ayet_bas": 4,
+      "ayet_bit": 5
+    },
+    {
+      "satir": 371097,
+      "ayet_bas": 13,
+      "ayet_bit": 13
+    },
+    {
+      "satir": 371126,
+      "ayet_bas": 14,
+      "ayet_bit": 14
+    },
+    {
+      "satir": 371150,
+      "ayet_bas": 15,
+      "ayet_bit": 15
+    },
+    {
+      "satir": 371217,
+      "ayet_bas": 16,
+      "ayet_bit": 16
+    },
+    {
+      "satir": 373998,
+      "ayet_bas": 33,
+      "ayet_bit": 33
+    },
+    {
+      "satir": 374634,
+      "ayet_bas": 35,
+      "ayet_bit": 35
+    },
+    {
+      "satir": 375733,
+      "ayet_bas": 36,
+      "ayet_bit": 38
+    },
+    {
+      "satir": 376347,
+      "ayet_bas": 41,
+      "ayet_bit": 42
+    },
+    {
+      "satir": 377081,
+      "ayet_bas": 4750,
+      "ayet_bit": 4750
+    },
+    {
+      "satir": 377219,
+      "ayet_bas": 51,
+      "ayet_bit": 54
+    },
+    {
+      "satir": 377306,
+      "ayet_bas": 55,
+      "ayet_bit": 55
+    },
+    {
+      "satir": 377639,
+      "ayet_bas": 27,
+      "ayet_bit": 27
+    }
+  ],
+  "25": [
+    {
+      "satir": 379127,
+      "ayet_bas": 3,
+      "ayet_bit": 3
+    },
+    {
+      "satir": 380181,
+      "ayet_bas": 17,
+      "ayet_bit": 20
+    },
+    {
+      "satir": 381255,
+      "ayet_bas": 25,
+      "ayet_bit": 29
+    },
+    {
+      "satir": 381862,
+      "ayet_bas": 35,
+      "ayet_bit": 36
+    },
+    {
+      "satir": 382137,
+      "ayet_bas": 40,
+      "ayet_bit": 40
+    },
+    {
+      "satir": 382188,
+      "ayet_bas": 41,
+      "ayet_bit": 44
+    },
+    {
+      "satir": 383352,
+      "ayet_bas": 50,
+      "ayet_bit": 52
+    },
+    {
+      "satir": 383563,
+      "ayet_bas": 54,
+      "ayet_bit": 54
+    },
+    {
+      "satir": 383727,
+      "ayet_bas": 59,
+      "ayet_bit": 60
+    },
+    {
+      "satir": 384846,
+      "ayet_bas": 76,
+      "ayet_bit": 77
+    }
+  ],
+  "26": [
+    {
+      "satir": 385064,
+      "ayet_bas": 5,
+      "ayet_bit": 9
+    },
+    {
+      "satir": 385274,
+      "ayet_bas": 12,
+      "ayet_bit": 14
+    },
+    {
+      "satir": 385398,
+      "ayet_bas": 15,
+      "ayet_bit": 17
+    },
+    {
+      "satir": 385534,
+      "ayet_bas": 20,
+      "ayet_bit": 22
+    },
+    {
+      "satir": 388660,
+      "ayet_bas": 203,
+      "ayet_bit": 209
+    },
+    {
+      "satir": 388994,
+      "ayet_bas": 224,
+      "ayet_bit": 227
+    }
+  ],
+  "28": [
+    {
+      "satir": 392454,
+      "ayet_bas": 1,
+      "ayet_bit": 6
+    },
+    {
+      "satir": 393448,
+      "ayet_bas": 22,
+      "ayet_bit": 28
+    },
+    {
+      "satir": 394992,
+      "ayet_bas": 46,
+      "ayet_bit": 55
+    },
+    {
+      "satir": 395458,
+      "ayet_bas": 58,
+      "ayet_bit": 59
+    },
+    {
+      "satir": 395534,
+      "ayet_bas": 60,
+      "ayet_bit": 61
+    },
+    {
+      "satir": 395999,
+      "ayet_bas": 74,
+      "ayet_bit": 75
+    },
+    {
+      "satir": 396043,
+      "ayet_bas": 76,
+      "ayet_bit": 76
+    },
+    {
+      "satir": 396320,
+      "ayet_bas": 79,
+      "ayet_bit": 81
+    },
+    {
+      "satir": 396436,
+      "ayet_bas": 82,
+      "ayet_bit": 83
+    }
+  ],
+  "29": [
+    {
+      "satir": 396958,
+      "ayet_bas": 1,
+      "ayet_bit": 2
+    },
+    {
+      "satir": 397592,
+      "ayet_bas": 7,
+      "ayet_bit": 7
+    },
+    {
+      "satir": 397795,
+      "ayet_bas": 6,
+      "ayet_bit": 6
+    },
+    {
+      "satir": 397998,
+      "ayet_bas": 10,
+      "ayet_bit": 11
+    },
+    {
+      "satir": 398285,
+      "ayet_bas": 12,
+      "ayet_bit": 12
+    },
+    {
+      "satir": 398295,
+      "ayet_bas": 14,
+      "ayet_bit": 14
+    },
+    {
+      "satir": 398422,
+      "ayet_bas": 16,
+      "ayet_bit": 16
+    },
+    {
+      "satir": 398643,
+      "ayet_bas": 19,
+      "ayet_bit": 19
+    },
+    {
+      "satir": 398887,
+      "ayet_bas": 21,
+      "ayet_bit": 22
+    },
+    {
+      "satir": 399084,
+      "ayet_bas": 24,
+      "ayet_bit": 24
+    },
+    {
+      "satir": 399416,
+      "ayet_bas": 26,
+      "ayet_bit": 26
+    },
+    {
+      "satir": 399602,
+      "ayet_bas": 28,
+      "ayet_bit": 30
+    },
+    {
+      "satir": 399762,
+      "ayet_bas": 31,
+      "ayet_bit": 32
+    },
+    {
+      "satir": 399880,
+      "ayet_bas": 33,
+      "ayet_bit": 35
+    },
+    {
+      "satir": 400110,
+      "ayet_bas": 36,
+      "ayet_bit": 37
+    },
+    {
+      "satir": 400327,
+      "ayet_bas": 38,
+      "ayet_bit": 39
+    },
+    {
+      "satir": 400370,
+      "ayet_bas": 40,
+      "ayet_bit": 40
+    },
+    {
+      "satir": 400413,
+      "ayet_bas": 41,
+      "ayet_bit": 41
+    },
+    {
+      "satir": 400537,
+      "ayet_bas": 42,
+      "ayet_bit": 42
+    },
+    {
+      "satir": 400615,
+      "ayet_bas": 44,
+      "ayet_bit": 44
+    },
+    {
+      "satir": 401163,
+      "ayet_bas": 51,
+      "ayet_bit": 62
+    },
+    {
+      "satir": 402020,
+      "ayet_bas": 62,
+      "ayet_bit": 62
+    },
+    {
+      "satir": 402117,
+      "ayet_bas": 64,
+      "ayet_bit": 64
+    },
+    {
+      "satir": 402259,
+      "ayet_bas": 65,
+      "ayet_bit": 65
+    },
+    {
+      "satir": 402268,
+      "ayet_bas": 66,
+      "ayet_bit": 66
+    },
+    {
+      "satir": 402289,
+      "ayet_bas": 67,
+      "ayet_bit": 67
+    }
+  ],
+  "30": [
+    {
+      "satir": 402449,
+      "ayet_bas": 1,
+      "ayet_bit": 3
+    },
+    {
+      "satir": 402585,
+      "ayet_bas": 5,
+      "ayet_bit": 7
+    },
+    {
+      "satir": 402629,
+      "ayet_bas": 8,
+      "ayet_bit": 8
+    },
+    {
+      "satir": 403129,
+      "ayet_bas": 23,
+      "ayet_bit": 23
+    },
+    {
+      "satir": 403546,
+      "ayet_bas": 21,
+      "ayet_bit": 21
+    },
+    {
+      "satir": 403911,
+      "ayet_bas": 25,
+      "ayet_bit": 25
+    },
+    {
+      "satir": 404175,
+      "ayet_bas": 28,
+      "ayet_bit": 28
+    },
+    {
+      "satir": 404343,
+      "ayet_bas": 31,
+      "ayet_bit": 32
+    },
+    {
+      "satir": 405565,
+      "ayet_bas": 54,
+      "ayet_bit": 54
+    },
+    {
+      "satir": 405617,
+      "ayet_bas": 27,
+      "ayet_bit": 27
+    },
+    {
+      "satir": 405677,
+      "ayet_bas": 57,
+      "ayet_bit": 57
+    },
+    {
+      "satir": 405739,
+      "ayet_bas": 59,
+      "ayet_bit": 59
+    }
+  ],
+  "31": [
+    {
+      "satir": 405879,
+      "ayet_bas": 6,
+      "ayet_bit": 6
+    },
+    {
+      "satir": 406187,
+      "ayet_bas": 12,
+      "ayet_bit": 12
+    },
+    {
+      "satir": 406393,
+      "ayet_bas": 15,
+      "ayet_bit": 15
+    },
+    {
+      "satir": 406503,
+      "ayet_bas": 17,
+      "ayet_bit": 17
+    },
+    {
+      "satir": 406560,
+      "ayet_bas": 10,
+      "ayet_bit": 10
+    },
+    {
+      "satir": 406603,
+      "ayet_bas": 19,
+      "ayet_bit": 19
+    },
+    {
+      "satir": 407281,
+      "ayet_bas": 3,
+      "ayet_bit": 3
+    }
+  ],
+  "32": [
+    {
+      "satir": 407784,
+      "ayet_bas": 1,
+      "ayet_bit": 3
+    },
+    {
+      "satir": 408279,
+      "ayet_bas": 4,
+      "ayet_bit": 4
+    },
+    {
+      "satir": 408538,
+      "ayet_bas": 11,
+      "ayet_bit": 11
+    },
+    {
+      "satir": 408809,
+      "ayet_bas": 15,
+      "ayet_bit": 15
+    },
+    {
+      "satir": 409167,
+      "ayet_bas": 3,
+      "ayet_bit": 3
+    },
+    {
+      "satir": 409323,
+      "ayet_bas": 10,
+      "ayet_bit": 10
+    },
+    {
+      "satir": 409324,
+      "ayet_bas": 28,
+      "ayet_bit": 28
+    }
+  ],
+  "33": [
+    {
+      "satir": 410381,
+      "ayet_bas": 23,
+      "ayet_bit": 25
+    }
+  ],
+  "34": [
+    {
+      "satir": 413412,
+      "ayet_bas": 5,
+      "ayet_bit": 5
+    },
+    {
+      "satir": 413639,
+      "ayet_bas": 10,
+      "ayet_bit": 10
+    },
+    {
+      "satir": 413753,
+      "ayet_bas": 11,
+      "ayet_bit": 11
+    },
+    {
+      "satir": 414848,
+      "ayet_bas": 31,
+      "ayet_bit": 31
+    },
+    {
+      "satir": 414940,
+      "ayet_bas": 33,
+      "ayet_bit": 33
+    },
+    {
+      "satir": 415677,
+      "ayet_bas": 49,
+      "ayet_bit": 49
+    }
+  ],
+  "36": [
+    {
+      "satir": 418762,
+      "ayet_bas": 1,
+      "ayet_bit": 2
+    },
+    {
+      "satir": 418965,
+      "ayet_bas": 5,
+      "ayet_bit": 6
+    },
+    {
+      "satir": 421435,
+      "ayet_bas": 38,
+      "ayet_bit": 38
+    },
+    {
+      "satir": 421560,
+      "ayet_bas": 39,
+      "ayet_bit": 39
+    },
+    {
+      "satir": 421951,
+      "ayet_bas": 41,
+      "ayet_bit": 41
+    },
+    {
+      "satir": 423987,
+      "ayet_bas": 63,
+      "ayet_bit": 63
+    },
+    {
+      "satir": 424109,
+      "ayet_bas": 35,
+      "ayet_bit": 35
+    }
+  ],
+  "37": [
+    {
+      "satir": 425878,
+      "ayet_bas": 12,
+      "ayet_bit": 12
+    },
+    {
+      "satir": 427347,
+      "ayet_bas": 83,
+      "ayet_bit": 94
+    },
+    {
+      "satir": 428500,
+      "ayet_bas": 123,
+      "ayet_bit": 132
+    }
+  ],
+  "38": [
+    {
+      "satir": 431394,
+      "ayet_bas": 26,
+      "ayet_bit": 29
+    },
+    {
+      "satir": 431579,
+      "ayet_bas": 28,
+      "ayet_bit": 28
+    }
+  ],
+  "39": [
+    {
+      "satir": 438072,
+      "ayet_bas": 5359,
+      "ayet_bit": 5359
+    },
+    {
+      "satir": 438681,
+      "ayet_bas": 62,
+      "ayet_bit": 66
+    },
+    {
+      "satir": 439459,
+      "ayet_bas": 71,
+      "ayet_bit": 72
+    }
+  ],
+  "40": [
+    {
+      "satir": 439801,
+      "ayet_bas": 1,
+      "ayet_bit": 6
+    },
+    {
+      "satir": 440217,
+      "ayet_bas": 7,
+      "ayet_bit": 9
+    },
+    {
+      "satir": 441565,
+      "ayet_bas": 18,
+      "ayet_bit": 22
+    },
+    {
+      "satir": 444437,
+      "ayet_bas": 79,
+      "ayet_bit": 81
+    }
+  ],
+  "41": [
+    {
+      "satir": 444666,
+      "ayet_bas": 16,
+      "ayet_bit": 16
+    },
+    {
+      "satir": 446634,
+      "ayet_bas": 30,
+      "ayet_bit": 32
+    },
+    {
+      "satir": 446820,
+      "ayet_bas": 33,
+      "ayet_bit": 36
+    }
+  ],
+  "42": [
+    {
+      "satir": 450068,
+      "ayet_bas": 27,
+      "ayet_bit": 31
+    },
+    {
+      "satir": 451330,
+      "ayet_bas": 51,
+      "ayet_bit": 53
+    }
+  ],
+  "43": [
+    {
+      "satir": 452711,
+      "ayet_bas": 20,
+      "ayet_bit": 25
+    },
+    {
+      "satir": 453439,
+      "ayet_bas": 31,
+      "ayet_bit": 31
+    },
+    {
+      "satir": 453908,
+      "ayet_bas": 57,
+      "ayet_bit": 62
+    },
+    {
+      "satir": 453961,
+      "ayet_bas": 57,
+      "ayet_bit": 57
+    }
+  ],
+  "44": [
+    {
+      "satir": 455900,
+      "ayet_bas": 30,
+      "ayet_bit": 39
+    }
+  ],
+  "46": [
+    {
+      "satir": 457879,
+      "ayet_bas": 1,
+      "ayet_bit": 4
+    },
+    {
+      "satir": 458175,
+      "ayet_bas": 9,
+      "ayet_bit": 12
+    },
+    {
+      "satir": 459380,
+      "ayet_bas": 17,
+      "ayet_bit": 20
+    },
+    {
+      "satir": 460282,
+      "ayet_bas": 36,
+      "ayet_bit": 36
+    }
+  ],
+  "47": [
+    {
+      "satir": 460780,
+      "ayet_bas": 3,
+      "ayet_bit": 3
+    },
+    {
+      "satir": 460964,
+      "ayet_bas": 4,
+      "ayet_bit": 4
+    },
+    {
+      "satir": 461396,
+      "ayet_bas": 5,
+      "ayet_bit": 6
+    },
+    {
+      "satir": 461513,
+      "ayet_bas": 8,
+      "ayet_bit": 9
+    },
+    {
+      "satir": 461645,
+      "ayet_bas": 11,
+      "ayet_bit": 11
+    },
+    {
+      "satir": 461802,
+      "ayet_bas": 13,
+      "ayet_bit": 14
+    },
+    {
+      "satir": 462221,
+      "ayet_bas": 16,
+      "ayet_bit": 17
+    },
+    {
+      "satir": 462390,
+      "ayet_bas": 15,
+      "ayet_bit": 15
+    },
+    {
+      "satir": 462475,
+      "ayet_bas": 19,
+      "ayet_bit": 19
+    },
+    {
+      "satir": 462561,
+      "ayet_bas": 20,
+      "ayet_bit": 20
+    },
+    {
+      "satir": 462628,
+      "ayet_bas": 21,
+      "ayet_bit": 21
+    },
+    {
+      "satir": 462665,
+      "ayet_bas": 22,
+      "ayet_bit": 22
+    },
+    {
+      "satir": 462994,
+      "ayet_bas": 26,
+      "ayet_bit": 26
+    },
+    {
+      "satir": 463059,
+      "ayet_bas": 27,
+      "ayet_bit": 27
+    },
+    {
+      "satir": 463167,
+      "ayet_bas": 29,
+      "ayet_bit": 29
+    },
+    {
+      "satir": 463197,
+      "ayet_bas": 30,
+      "ayet_bit": 30
+    },
+    {
+      "satir": 463300,
+      "ayet_bas": 31,
+      "ayet_bit": 31
+    },
+    {
+      "satir": 463390,
+      "ayet_bas": 33,
+      "ayet_bit": 33
+    },
+    {
+      "satir": 463522,
+      "ayet_bas": 36,
+      "ayet_bit": 36
+    },
+    {
+      "satir": 463585,
+      "ayet_bas": 37,
+      "ayet_bit": 37
+    },
+    {
+      "satir": 463621,
+      "ayet_bas": 36,
+      "ayet_bit": 36
+    }
+  ],
+  "48": [
+    {
+      "satir": 463736,
+      "ayet_bas": 1,
+      "ayet_bit": 3
+    },
+    {
+      "satir": 464023,
+      "ayet_bas": 4,
+      "ayet_bit": 4
+    },
+    {
+      "satir": 464347,
+      "ayet_bas": 67,
+      "ayet_bit": 67
+    },
+    {
+      "satir": 464642,
+      "ayet_bas": 10,
+      "ayet_bit": 10
+    },
+    {
+      "satir": 464820,
+      "ayet_bas": 12,
+      "ayet_bit": 12
+    },
+    {
+      "satir": 464900,
+      "ayet_bas": 15,
+      "ayet_bit": 15
+    },
+    {
+      "satir": 465162,
+      "ayet_bas": 11,
+      "ayet_bit": 11
+    },
+    {
+      "satir": 465177,
+      "ayet_bas": 17,
+      "ayet_bit": 19
+    },
+    {
+      "satir": 465360,
+      "ayet_bas": 20,
+      "ayet_bit": 20
+    },
+    {
+      "satir": 465412,
+      "ayet_bas": 21,
+      "ayet_bit": 21
+    },
+    {
+      "satir": 465449,
+      "ayet_bas": 22,
+      "ayet_bit": 22
+    },
+    {
+      "satir": 465508,
+      "ayet_bas": 24,
+      "ayet_bit": 24
+    },
+    {
+      "satir": 465737,
+      "ayet_bas": 26,
+      "ayet_bit": 26
+    },
+    {
+      "satir": 465989,
+      "ayet_bas": 27,
+      "ayet_bit": 27
+    },
+    {
+      "satir": 466160,
+      "ayet_bas": 28,
+      "ayet_bit": 28
+    }
+  ],
+  "49": [
+    {
+      "satir": 466445,
+      "ayet_bas": 1,
+      "ayet_bit": 1
+    },
+    {
+      "satir": 466601,
+      "ayet_bas": 2,
+      "ayet_bit": 2
+    },
+    {
+      "satir": 466791,
+      "ayet_bas": 3,
+      "ayet_bit": 3
+    },
+    {
+      "satir": 466882,
+      "ayet_bas": 4,
+      "ayet_bit": 4
+    },
+    {
+      "satir": 467096,
+      "ayet_bas": 9,
+      "ayet_bit": 9
+    },
+    {
+      "satir": 467646,
+      "ayet_bas": 8,
+      "ayet_bit": 8
+    },
+    {
+      "satir": 467753,
+      "ayet_bas": 9,
+      "ayet_bit": 9
+    },
+    {
+      "satir": 467966,
+      "ayet_bas": 10,
+      "ayet_bit": 10
+    },
+    {
+      "satir": 468104,
+      "ayet_bas": 11,
+      "ayet_bit": 11
+    },
+    {
+      "satir": 468339,
+      "ayet_bas": 12,
+      "ayet_bit": 12
+    },
+    {
+      "satir": 468548,
+      "ayet_bas": 13,
+      "ayet_bit": 13
+    },
+    {
+      "satir": 468866,
+      "ayet_bas": 14,
+      "ayet_bit": 14
+    },
+    {
+      "satir": 469103,
+      "ayet_bas": 16,
+      "ayet_bit": 16
+    },
+    {
+      "satir": 469208,
+      "ayet_bas": 18,
+      "ayet_bit": 18
+    }
+  ],
+  "50": [
+    {
+      "satir": 469238,
+      "ayet_bas": 1,
+      "ayet_bit": 1
+    },
+    {
+      "satir": 469593,
+      "ayet_bas": 3,
+      "ayet_bit": 3
+    },
+    {
+      "satir": 469601,
+      "ayet_bas": 2,
+      "ayet_bit": 2
+    },
+    {
+      "satir": 469727,
+      "ayet_bas": 3,
+      "ayet_bit": 3
+    },
+    {
+      "satir": 470027,
+      "ayet_bas": 6,
+      "ayet_bit": 6
+    },
+    {
+      "satir": 470215,
+      "ayet_bas": 9,
+      "ayet_bit": 12
+    },
+    {
+      "satir": 470574,
+      "ayet_bas": 15,
+      "ayet_bit": 15
+    },
+    {
+      "satir": 470649,
+      "ayet_bas": 16,
+      "ayet_bit": 16
+    },
+    {
+      "satir": 470682,
+      "ayet_bas": 1718,
+      "ayet_bit": 1718
+    },
+    {
+      "satir": 470760,
+      "ayet_bas": 20,
+      "ayet_bit": 20
+    },
+    {
+      "satir": 470986,
+      "ayet_bas": 26,
+      "ayet_bit": 27
+    },
+    {
+      "satir": 471133,
+      "ayet_bas": 28,
+      "ayet_bit": 29
+    },
+    {
+      "satir": 471471,
+      "ayet_bas": 30,
+      "ayet_bit": 30
+    },
+    {
+      "satir": 471686,
+      "ayet_bas": 32,
+      "ayet_bit": 32
+    },
+    {
+      "satir": 471743,
+      "ayet_bas": 33,
+      "ayet_bit": 33
+    },
+    {
+      "satir": 471947,
+      "ayet_bas": 34,
+      "ayet_bit": 34
+    },
+    {
+      "satir": 471950,
+      "ayet_bas": 32,
+      "ayet_bit": 32
+    },
+    {
+      "satir": 472036,
+      "ayet_bas": 35,
+      "ayet_bit": 35
+    },
+    {
+      "satir": 472039,
+      "ayet_bas": 31,
+      "ayet_bit": 31
+    },
+    {
+      "satir": 472547,
+      "ayet_bas": 41,
+      "ayet_bit": 41
+    },
+    {
+      "satir": 472821,
+      "ayet_bas": 45,
+      "ayet_bit": 45
+    },
+    {
+      "satir": 472845,
+      "ayet_bas": 43,
+      "ayet_bit": 43
+    }
+  ],
+  "51": [
+    {
+      "satir": 473009,
+      "ayet_bas": 1,
+      "ayet_bit": 5
+    },
+    {
+      "satir": 473025,
+      "ayet_bas": 57,
+      "ayet_bit": 60
+    },
+    {
+      "satir": 473311,
+      "ayet_bas": 6,
+      "ayet_bit": 12
+    },
+    {
+      "satir": 473815,
+      "ayet_bas": 18,
+      "ayet_bit": 18
+    },
+    {
+      "satir": 473923,
+      "ayet_bas": 17,
+      "ayet_bit": 17
+    },
+    {
+      "satir": 473956,
+      "ayet_bas": 19,
+      "ayet_bit": 19
+    },
+    {
+      "satir": 474179,
+      "ayet_bas": 21,
+      "ayet_bit": 21
+    },
+    {
+      "satir": 474199,
+      "ayet_bas": 22,
+      "ayet_bit": 22
+    },
+    {
+      "satir": 474252,
+      "ayet_bas": 23,
+      "ayet_bit": 23
+    },
+    {
+      "satir": 474639,
+      "ayet_bas": 26,
+      "ayet_bit": 27
+    },
+    {
+      "satir": 474745,
+      "ayet_bas": 29,
+      "ayet_bit": 29
+    },
+    {
+      "satir": 474782,
+      "ayet_bas": 30,
+      "ayet_bit": 30
+    },
+    {
+      "satir": 475007,
+      "ayet_bas": 34,
+      "ayet_bit": 34
+    },
+    {
+      "satir": 475072,
+      "ayet_bas": 36,
+      "ayet_bit": 37
+    },
+    {
+      "satir": 475159,
+      "ayet_bas": 3639,
+      "ayet_bit": 3639
+    },
+    {
+      "satir": 475271,
+      "ayet_bas": 41,
+      "ayet_bit": 41
+    },
+    {
+      "satir": 475339,
+      "ayet_bas": 42,
+      "ayet_bit": 42
+    },
+    {
+      "satir": 475431,
+      "ayet_bas": 43,
+      "ayet_bit": 44
+    },
+    {
+      "satir": 475468,
+      "ayet_bas": 45,
+      "ayet_bit": 45
+    },
+    {
+      "satir": 475749,
+      "ayet_bas": 50,
+      "ayet_bit": 50
+    },
+    {
+      "satir": 475883,
+      "ayet_bas": 52,
+      "ayet_bit": 52
+    },
+    {
+      "satir": 475961,
+      "ayet_bas": 53,
+      "ayet_bit": 54
+    },
+    {
+      "satir": 475991,
+      "ayet_bas": 55,
+      "ayet_bit": 55
+    },
+    {
+      "satir": 476039,
+      "ayet_bas": 56,
+      "ayet_bit": 56
+    },
+    {
+      "satir": 476548,
+      "ayet_bas": 59,
+      "ayet_bit": 60
+    }
+  ],
+  "52": [
+    {
+      "satir": 476820,
+      "ayet_bas": 7,
+      "ayet_bit": 8
+    },
+    {
+      "satir": 476923,
+      "ayet_bas": 9,
+      "ayet_bit": 10
+    },
+    {
+      "satir": 477119,
+      "ayet_bas": 11,
+      "ayet_bit": 12
+    },
+    {
+      "satir": 477182,
+      "ayet_bas": 13,
+      "ayet_bit": 13
+    },
+    {
+      "satir": 477261,
+      "ayet_bas": 14,
+      "ayet_bit": 14
+    },
+    {
+      "satir": 477289,
+      "ayet_bas": 18,
+      "ayet_bit": 18
+    },
+    {
+      "satir": 477345,
+      "ayet_bas": 17,
+      "ayet_bit": 20
+    },
+    {
+      "satir": 477541,
+      "ayet_bas": 21,
+      "ayet_bit": 21
+    },
+    {
+      "satir": 477755,
+      "ayet_bas": 2223,
+      "ayet_bit": 2223
+    },
+    {
+      "satir": 477850,
+      "ayet_bas": 24,
+      "ayet_bit": 24
+    },
+    {
+      "satir": 477913,
+      "ayet_bas": 29,
+      "ayet_bit": 31
+    },
+    {
+      "satir": 478156,
+      "ayet_bas": 33,
+      "ayet_bit": 34
+    },
+    {
+      "satir": 478265,
+      "ayet_bas": 35,
+      "ayet_bit": 35
+    },
+    {
+      "satir": 478417,
+      "ayet_bas": 36,
+      "ayet_bit": 36
+    },
+    {
+      "satir": 478450,
+      "ayet_bas": 37,
+      "ayet_bit": 37
+    },
+    {
+      "satir": 478485,
+      "ayet_bas": 38,
+      "ayet_bit": 38
+    },
+    {
+      "satir": 478583,
+      "ayet_bas": 39,
+      "ayet_bit": 39
+    },
+    {
+      "satir": 478649,
+      "ayet_bas": 40,
+      "ayet_bit": 40
+    },
+    {
+      "satir": 478844,
+      "ayet_bas": 30,
+      "ayet_bit": 30
+    },
+    {
+      "satir": 478890,
+      "ayet_bas": 42,
+      "ayet_bit": 42
+    },
+    {
+      "satir": 479242,
+      "ayet_bas": 45,
+      "ayet_bit": 45
+    },
+    {
+      "satir": 479682,
+      "ayet_bas": 48,
+      "ayet_bit": 48
+    },
+    {
+      "satir": 479686,
+      "ayet_bas": 45,
+      "ayet_bit": 45
+    },
+    {
+      "satir": 479825,
+      "ayet_bas": 49,
+      "ayet_bit": 49
+    }
+  ],
+  "53": [
+    {
+      "satir": 479864,
+      "ayet_bas": 1,
+      "ayet_bit": 1
+    },
+    {
+      "satir": 480210,
+      "ayet_bas": 4,
+      "ayet_bit": 4
+    },
+    {
+      "satir": 480465,
+      "ayet_bas": 5,
+      "ayet_bit": 5
+    },
+    {
+      "satir": 480526,
+      "ayet_bas": 6,
+      "ayet_bit": 6
+    },
+    {
+      "satir": 480576,
+      "ayet_bas": 7,
+      "ayet_bit": 7
+    },
+    {
+      "satir": 480615,
+      "ayet_bas": 8,
+      "ayet_bit": 8
+    },
+    {
+      "satir": 480663,
+      "ayet_bas": 9,
+      "ayet_bit": 10
+    },
+    {
+      "satir": 480804,
+      "ayet_bas": 11,
+      "ayet_bit": 11
+    },
+    {
+      "satir": 480982,
+      "ayet_bas": 12,
+      "ayet_bit": 14
+    },
+    {
+      "satir": 481175,
+      "ayet_bas": 15,
+      "ayet_bit": 15
+    },
+    {
+      "satir": 481192,
+      "ayet_bas": 16,
+      "ayet_bit": 16
+    },
+    {
+      "satir": 481290,
+      "ayet_bas": 17,
+      "ayet_bit": 17
+    },
+    {
+      "satir": 481375,
+      "ayet_bas": 18,
+      "ayet_bit": 18
+    },
+    {
+      "satir": 481583,
+      "ayet_bas": 21,
+      "ayet_bit": 21
+    },
+    {
+      "satir": 481630,
+      "ayet_bas": 22,
+      "ayet_bit": 22
+    },
+    {
+      "satir": 481721,
+      "ayet_bas": 23,
+      "ayet_bit": 23
+    },
+    {
+      "satir": 482074,
+      "ayet_bas": 25,
+      "ayet_bit": 25
+    },
+    {
+      "satir": 482088,
+      "ayet_bas": 26,
+      "ayet_bit": 26
+    },
+    {
+      "satir": 482096,
+      "ayet_bas": 26,
+      "ayet_bit": 26
+    },
+    {
+      "satir": 482544,
+      "ayet_bas": 27,
+      "ayet_bit": 27
+    },
+    {
+      "satir": 482766,
+      "ayet_bas": 28,
+      "ayet_bit": 28
+    },
+    {
+      "satir": 483324,
+      "ayet_bas": 32,
+      "ayet_bit": 32
+    },
+    {
+      "satir": 483788,
+      "ayet_bas": 29,
+      "ayet_bit": 29
+    },
+    {
+      "satir": 483897,
+      "ayet_bas": 36,
+      "ayet_bit": 41
+    },
+    {
+      "satir": 484365,
+      "ayet_bas": 42,
+      "ayet_bit": 42
+    },
+    {
+      "satir": 484547,
+      "ayet_bas": 44,
+      "ayet_bit": 44
+    },
+    {
+      "satir": 484590,
+      "ayet_bas": 4546,
+      "ayet_bit": 4546
+    },
+    {
+      "satir": 484649,
+      "ayet_bas": 49,
+      "ayet_bit": 49
+    },
+    {
+      "satir": 484908,
+      "ayet_bas": 50,
+      "ayet_bit": 50
+    },
+    {
+      "satir": 484945,
+      "ayet_bas": 51,
+      "ayet_bit": 52
+    },
+    {
+      "satir": 485097,
+      "ayet_bas": 55,
+      "ayet_bit": 55
+    },
+    {
+      "satir": 485193,
+      "ayet_bas": 57,
+      "ayet_bit": 57
+    },
+    {
+      "satir": 485220,
+      "ayet_bas": 58,
+      "ayet_bit": 58
+    },
+    {
+      "satir": 485300,
+      "ayet_bas": 59,
+      "ayet_bit": 82
+    }
+  ],
+  "54": [
+    {
+      "satir": 485346,
+      "ayet_bas": 1,
+      "ayet_bit": 1
+    },
+    {
+      "satir": 485391,
+      "ayet_bas": 2,
+      "ayet_bit": 2
+    },
+    {
+      "satir": 485631,
+      "ayet_bas": 4,
+      "ayet_bit": 4
+    },
+    {
+      "satir": 486159,
+      "ayet_bas": 11,
+      "ayet_bit": 11
+    },
+    {
+      "satir": 486228,
+      "ayet_bas": 12,
+      "ayet_bit": 12
+    },
+    {
+      "satir": 486462,
+      "ayet_bas": 15,
+      "ayet_bit": 15
+    },
+    {
+      "satir": 486563,
+      "ayet_bas": 16,
+      "ayet_bit": 16
+    },
+    {
+      "satir": 486677,
+      "ayet_bas": 17,
+      "ayet_bit": 17
+    },
+    {
+      "satir": 486716,
+      "ayet_bas": 18,
+      "ayet_bit": 18
+    },
+    {
+      "satir": 486794,
+      "ayet_bas": 16,
+      "ayet_bit": 16
+    },
+    {
+      "satir": 486839,
+      "ayet_bas": 19,
+      "ayet_bit": 19
+    },
+    {
+      "satir": 487154,
+      "ayet_bas": 21,
+      "ayet_bit": 22
+    },
+    {
+      "satir": 487179,
+      "ayet_bas": 23,
+      "ayet_bit": 24
+    },
+    {
+      "satir": 487378,
+      "ayet_bas": 26,
+      "ayet_bit": 26
+    },
+    {
+      "satir": 487489,
+      "ayet_bas": 26,
+      "ayet_bit": 26
+    },
+    {
+      "satir": 487519,
+      "ayet_bas": 27,
+      "ayet_bit": 27
+    },
+    {
+      "satir": 487671,
+      "ayet_bas": 26,
+      "ayet_bit": 26
+    },
+    {
+      "satir": 487724,
+      "ayet_bas": 29,
+      "ayet_bit": 29
+    },
+    {
+      "satir": 487746,
+      "ayet_bas": 30,
+      "ayet_bit": 30
+    },
+    {
+      "satir": 487865,
+      "ayet_bas": 32,
+      "ayet_bit": 32
+    },
+    {
+      "satir": 487880,
+      "ayet_bas": 34,
+      "ayet_bit": 34
+    },
+    {
+      "satir": 488076,
+      "ayet_bas": 35,
+      "ayet_bit": 35
+    },
+    {
+      "satir": 488134,
+      "ayet_bas": 36,
+      "ayet_bit": 36
+    },
+    {
+      "satir": 488169,
+      "ayet_bas": 37,
+      "ayet_bit": 37
+    },
+    {
+      "satir": 488332,
+      "ayet_bas": 38,
+      "ayet_bit": 38
+    },
+    {
+      "satir": 488460,
+      "ayet_bas": 39,
+      "ayet_bit": 39
+    },
+    {
+      "satir": 488602,
+      "ayet_bas": 43,
+      "ayet_bit": 43
+    },
+    {
+      "satir": 488729,
+      "ayet_bas": 44,
+      "ayet_bit": 44
+    },
+    {
+      "satir": 488827,
+      "ayet_bas": 45,
+      "ayet_bit": 45
+    },
+    {
+      "satir": 488841,
+      "ayet_bas": 45,
+      "ayet_bit": 45
+    },
+    {
+      "satir": 488884,
+      "ayet_bas": 46,
+      "ayet_bit": 46
+    },
+    {
+      "satir": 488988,
+      "ayet_bas": 47,
+      "ayet_bit": 48
+    },
+    {
+      "satir": 489166,
+      "ayet_bas": 43,
+      "ayet_bit": 43
+    },
+    {
+      "satir": 489200,
+      "ayet_bas": 49,
+      "ayet_bit": 49
+    },
+    {
+      "satir": 489353,
+      "ayet_bas": 50,
+      "ayet_bit": 50
+    },
+    {
+      "satir": 489661,
+      "ayet_bas": 53,
+      "ayet_bit": 53
+    },
+    {
+      "satir": 489684,
+      "ayet_bas": 53,
+      "ayet_bit": 53
+    },
+    {
+      "satir": 489698,
+      "ayet_bas": 54,
+      "ayet_bit": 54
+    }
+  ],
+  "55": [
+    {
+      "satir": 489998,
+      "ayet_bas": 1,
+      "ayet_bit": 4
+    },
+    {
+      "satir": 490336,
+      "ayet_bas": 5,
+      "ayet_bit": 6
+    },
+    {
+      "satir": 490638,
+      "ayet_bas": 7,
+      "ayet_bit": 7
+    },
+    {
+      "satir": 490678,
+      "ayet_bas": 8,
+      "ayet_bit": 8
+    },
+    {
+      "satir": 490722,
+      "ayet_bas": 9,
+      "ayet_bit": 9
+    },
+    {
+      "satir": 490837,
+      "ayet_bas": 10,
+      "ayet_bit": 10
+    },
+    {
+      "satir": 490984,
+      "ayet_bas": 12,
+      "ayet_bit": 12
+    },
+    {
+      "satir": 491043,
+      "ayet_bas": 13,
+      "ayet_bit": 13
+    },
+    {
+      "satir": 491290,
+      "ayet_bas": 15,
+      "ayet_bit": 16
+    },
+    {
+      "satir": 491389,
+      "ayet_bas": 17,
+      "ayet_bit": 18
+    },
+    {
+      "satir": 491427,
+      "ayet_bas": 19,
+      "ayet_bit": 21
+    },
+    {
+      "satir": 491573,
+      "ayet_bas": 22,
+      "ayet_bit": 23
+    },
+    {
+      "satir": 491686,
+      "ayet_bas": 24,
+      "ayet_bit": 25
+    },
+    {
+      "satir": 491844,
+      "ayet_bas": 26,
+      "ayet_bit": 26
+    },
+    {
+      "satir": 491955,
+      "ayet_bas": 27,
+      "ayet_bit": 28
+    },
+    {
+      "satir": 492155,
+      "ayet_bas": 29,
+      "ayet_bit": 30
+    },
+    {
+      "satir": 492369,
+      "ayet_bas": 31,
+      "ayet_bit": 32
+    },
+    {
+      "satir": 492492,
+      "ayet_bas": 33,
+      "ayet_bit": 34
+    },
+    {
+      "satir": 492601,
+      "ayet_bas": 35,
+      "ayet_bit": 36
+    },
+    {
+      "satir": 492738,
+      "ayet_bas": 37,
+      "ayet_bit": 38
+    },
+    {
+      "satir": 492938,
+      "ayet_bas": 39,
+      "ayet_bit": 40
+    },
+    {
+      "satir": 493098,
+      "ayet_bas": 41,
+      "ayet_bit": 42
+    },
+    {
+      "satir": 493229,
+      "ayet_bas": 43,
+      "ayet_bit": 43
+    },
+    {
+      "satir": 493250,
+      "ayet_bas": 44,
+      "ayet_bit": 44
+    },
+    {
+      "satir": 493269,
+      "ayet_bas": 45,
+      "ayet_bit": 45
+    },
+    {
+      "satir": 493470,
+      "ayet_bas": 48,
+      "ayet_bit": 49
+    },
+    {
+      "satir": 493483,
+      "ayet_bas": 52,
+      "ayet_bit": 52
+    },
+    {
+      "satir": 493510,
+      "ayet_bas": 5053,
+      "ayet_bit": 5053
+    },
+    {
+      "satir": 493515,
+      "ayet_bas": 68,
+      "ayet_bit": 68
+    },
+    {
+      "satir": 493527,
+      "ayet_bas": 35,
+      "ayet_bit": 35
+    },
+    {
+      "satir": 493600,
+      "ayet_bas": 54,
+      "ayet_bit": 55
+    },
+    {
+      "satir": 493779,
+      "ayet_bas": 56,
+      "ayet_bit": 57
+    },
+    {
+      "satir": 493815,
+      "ayet_bas": 70,
+      "ayet_bit": 70
+    },
+    {
+      "satir": 494005,
+      "ayet_bas": 5859,
+      "ayet_bit": 5859
+    },
+    {
+      "satir": 494062,
+      "ayet_bas": 60,
+      "ayet_bit": 61
+    },
+    {
+      "satir": 494209,
+      "ayet_bas": 62,
+      "ayet_bit": 67
+    },
+    {
+      "satir": 494281,
+      "ayet_bas": 68,
+      "ayet_bit": 69
+    },
+    {
+      "satir": 494311,
+      "ayet_bas": 70,
+      "ayet_bit": 71
+    },
+    {
+      "satir": 494324,
+      "ayet_bas": 72,
+      "ayet_bit": 75
+    },
+    {
+      "satir": 494346,
+      "ayet_bas": 76,
+      "ayet_bit": 77
+    },
+    {
+      "satir": 494360,
+      "ayet_bas": 54,
+      "ayet_bit": 54
+    },
+    {
+      "satir": 494409,
+      "ayet_bas": 62,
+      "ayet_bit": 62
+    },
+    {
+      "satir": 494504,
+      "ayet_bas": 78,
+      "ayet_bit": 78
+    }
+  ],
+  "56": [
+    {
+      "satir": 496725,
+      "ayet_bas": 32,
+      "ayet_bit": 33
+    }
+  ],
+  "57": [
+    {
+      "satir": 500085,
+      "ayet_bas": 1,
+      "ayet_bit": 1
+    },
+    {
+      "satir": 500265,
+      "ayet_bas": 2,
+      "ayet_bit": 2
+    },
+    {
+      "satir": 500755,
+      "ayet_bas": 4,
+      "ayet_bit": 4
+    },
+    {
+      "satir": 500844,
+      "ayet_bas": 6,
+      "ayet_bit": 6
+    },
+    {
+      "satir": 500952,
+      "ayet_bas": 8,
+      "ayet_bit": 8
+    },
+    {
+      "satir": 501033,
+      "ayet_bas": 9,
+      "ayet_bit": 9
+    },
+    {
+      "satir": 501269,
+      "ayet_bas": 11,
+      "ayet_bit": 11
+    },
+    {
+      "satir": 501774,
+      "ayet_bas": 14,
+      "ayet_bit": 14
+    },
+    {
+      "satir": 501952,
+      "ayet_bas": 16,
+      "ayet_bit": 16
+    },
+    {
+      "satir": 502116,
+      "ayet_bas": 17,
+      "ayet_bit": 17
+    },
+    {
+      "satir": 502140,
+      "ayet_bas": 18,
+      "ayet_bit": 18
+    },
+    {
+      "satir": 502226,
+      "ayet_bas": 19,
+      "ayet_bit": 19
+    },
+    {
+      "satir": 502311,
+      "ayet_bas": 20,
+      "ayet_bit": 20
+    },
+    {
+      "satir": 502444,
+      "ayet_bas": 21,
+      "ayet_bit": 21
+    },
+    {
+      "satir": 502770,
+      "ayet_bas": 23,
+      "ayet_bit": 23
+    },
+    {
+      "satir": 503287,
+      "ayet_bas": 26,
+      "ayet_bit": 26
+    },
+    {
+      "satir": 503336,
+      "ayet_bas": 27,
+      "ayet_bit": 27
+    },
+    {
+      "satir": 503552,
+      "ayet_bas": 28,
+      "ayet_bit": 28
+    },
+    {
+      "satir": 503593,
+      "ayet_bas": 29,
+      "ayet_bit": 29
+    }
+  ],
+  "58": [
+    {
+      "satir": 503683,
+      "ayet_bas": 1,
+      "ayet_bit": 1
+    },
+    {
+      "satir": 504045,
+      "ayet_bas": 3,
+      "ayet_bit": 3
+    },
+    {
+      "satir": 504181,
+      "ayet_bas": 3,
+      "ayet_bit": 3
+    },
+    {
+      "satir": 504716,
+      "ayet_bas": 5,
+      "ayet_bit": 5
+    },
+    {
+      "satir": 504759,
+      "ayet_bas": 6,
+      "ayet_bit": 6
+    },
+    {
+      "satir": 504799,
+      "ayet_bas": 7,
+      "ayet_bit": 7
+    },
+    {
+      "satir": 505081,
+      "ayet_bas": 9,
+      "ayet_bit": 9
+    },
+    {
+      "satir": 505115,
+      "ayet_bas": 10,
+      "ayet_bit": 10
+    },
+    {
+      "satir": 505341,
+      "ayet_bas": 12,
+      "ayet_bit": 12
+    },
+    {
+      "satir": 505406,
+      "ayet_bas": 13,
+      "ayet_bit": 13
+    },
+    {
+      "satir": 505600,
+      "ayet_bas": 15,
+      "ayet_bit": 15
+    },
+    {
+      "satir": 505608,
+      "ayet_bas": 16,
+      "ayet_bit": 16
+    },
+    {
+      "satir": 505685,
+      "ayet_bas": 19,
+      "ayet_bit": 19
+    },
+    {
+      "satir": 505724,
+      "ayet_bas": 20,
+      "ayet_bit": 21
+    },
+    {
+      "satir": 505935,
+      "ayet_bas": 19,
+      "ayet_bit": 19
+    }
+  ],
+  "61": [
+    {
+      "satir": 508506,
+      "ayet_bas": 3,
+      "ayet_bit": 3
+    },
+    {
+      "satir": 508575,
+      "ayet_bas": 5,
+      "ayet_bit": 5
+    },
+    {
+      "satir": 508862,
+      "ayet_bas": 10,
+      "ayet_bit": 11
+    },
+    {
+      "satir": 508969,
+      "ayet_bas": 12,
+      "ayet_bit": 13
+    },
+    {
+      "satir": 509026,
+      "ayet_bas": 14,
+      "ayet_bit": 14
+    }
+  ],
+  "63": [
+    {
+      "satir": 509880,
+      "ayet_bas": 1,
+      "ayet_bit": 1
+    },
+    {
+      "satir": 509940,
+      "ayet_bas": 2,
+      "ayet_bit": 3
+    },
+    {
+      "satir": 510357,
+      "ayet_bas": 9,
+      "ayet_bit": 11
+    }
+  ],
+  "64": [
+    {
+      "satir": 510454,
+      "ayet_bas": 1,
+      "ayet_bit": 1
+    },
+    {
+      "satir": 511046,
+      "ayet_bas": 17,
+      "ayet_bit": 18
+    }
+  ],
+  "65": [
+    {
+      "satir": 511111,
+      "ayet_bas": 1,
+      "ayet_bit": 1
+    },
+    {
+      "satir": 511471,
+      "ayet_bas": 2,
+      "ayet_bit": 3
+    },
+    {
+      "satir": 511594,
+      "ayet_bas": 4,
+      "ayet_bit": 5
+    },
+    {
+      "satir": 511805,
+      "ayet_bas": 8,
+      "ayet_bit": 12
+    }
+  ],
+  "66": [
+    {
+      "satir": 511998,
+      "ayet_bas": 1,
+      "ayet_bit": 1
+    },
+    {
+      "satir": 512396,
+      "ayet_bas": 6,
+      "ayet_bit": 7
+    },
+    {
+      "satir": 512483,
+      "ayet_bas": 8,
+      "ayet_bit": 9
+    },
+    {
+      "satir": 512623,
+      "ayet_bas": 10,
+      "ayet_bit": 11
+    },
+    {
+      "satir": 512723,
+      "ayet_bas": 12,
+      "ayet_bit": 12
+    }
+  ],
+  "67": [
+    {
+      "satir": 512843,
+      "ayet_bas": 1,
+      "ayet_bit": 1
+    },
+    {
+      "satir": 513277,
+      "ayet_bas": 3,
+      "ayet_bit": 3
+    },
+    {
+      "satir": 513478,
+      "ayet_bas": 5,
+      "ayet_bit": 5
+    },
+    {
+      "satir": 513729,
+      "ayet_bas": 6,
+      "ayet_bit": 6
+    },
+    {
+      "satir": 513793,
+      "ayet_bas": 8,
+      "ayet_bit": 8
+    },
+    {
+      "satir": 513995,
+      "ayet_bas": 11,
+      "ayet_bit": 11
+    },
+    {
+      "satir": 514075,
+      "ayet_bas": 14,
+      "ayet_bit": 14
+    },
+    {
+      "satir": 514401,
+      "ayet_bas": 17,
+      "ayet_bit": 17
+    },
+    {
+      "satir": 514470,
+      "ayet_bas": 19,
+      "ayet_bit": 19
+    },
+    {
+      "satir": 514541,
+      "ayet_bas": 20,
+      "ayet_bit": 20
+    },
+    {
+      "satir": 514568,
+      "ayet_bas": 21,
+      "ayet_bit": 21
+    },
+    {
+      "satir": 514595,
+      "ayet_bas": 22,
+      "ayet_bit": 22
+    },
+    {
+      "satir": 514682,
+      "ayet_bas": 24,
+      "ayet_bit": 24
+    },
+    {
+      "satir": 514719,
+      "ayet_bas": 25,
+      "ayet_bit": 25
+    },
+    {
+      "satir": 514780,
+      "ayet_bas": 27,
+      "ayet_bit": 27
+    },
+    {
+      "satir": 514875,
+      "ayet_bas": 28,
+      "ayet_bit": 28
+    },
+    {
+      "satir": 514900,
+      "ayet_bas": 29,
+      "ayet_bit": 29
+    },
+    {
+      "satir": 514925,
+      "ayet_bas": 30,
+      "ayet_bit": 30
+    }
+  ],
+  "68": [
+    {
+      "satir": 514957,
+      "ayet_bas": 1,
+      "ayet_bit": 1
+    },
+    {
+      "satir": 515032,
+      "ayet_bas": 1,
+      "ayet_bit": 1
+    },
+    {
+      "satir": 515121,
+      "ayet_bas": 24,
+      "ayet_bit": 24
+    },
+    {
+      "satir": 515374,
+      "ayet_bas": 5,
+      "ayet_bit": 5
+    },
+    {
+      "satir": 515386,
+      "ayet_bas": 6,
+      "ayet_bit": 6
+    },
+    {
+      "satir": 515424,
+      "ayet_bas": 7,
+      "ayet_bit": 7
+    },
+    {
+      "satir": 515443,
+      "ayet_bas": 8,
+      "ayet_bit": 8
+    },
+    {
+      "satir": 515463,
+      "ayet_bas": 9,
+      "ayet_bit": 13
+    },
+    {
+      "satir": 515747,
+      "ayet_bas": 16,
+      "ayet_bit": 16
+    },
+    {
+      "satir": 515991,
+      "ayet_bas": 23,
+      "ayet_bit": 23
+    },
+    {
+      "satir": 516002,
+      "ayet_bas": 24,
+      "ayet_bit": 24
+    },
+    {
+      "satir": 516082,
+      "ayet_bas": 28,
+      "ayet_bit": 28
+    },
+    {
+      "satir": 516114,
+      "ayet_bas": 29,
+      "ayet_bit": 29
+    },
+    {
+      "satir": 516148,
+      "ayet_bas": 31,
+      "ayet_bit": 31
+    },
+    {
+      "satir": 516171,
+      "ayet_bas": 33,
+      "ayet_bit": 33
+    },
+    {
+      "satir": 516179,
+      "ayet_bas": 14,
+      "ayet_bit": 15
+    },
+    {
+      "satir": 516200,
+      "ayet_bas": 34,
+      "ayet_bit": 34
+    },
+    {
+      "satir": 516309,
+      "ayet_bas": 39,
+      "ayet_bit": 39
+    },
+    {
+      "satir": 516598,
+      "ayet_bas": 43,
+      "ayet_bit": 43
+    },
+    {
+      "satir": 516717,
+      "ayet_bas": 47,
+      "ayet_bit": 47
+    },
+    {
+      "satir": 516738,
+      "ayet_bas": 48,
+      "ayet_bit": 48
+    },
+    {
+      "satir": 516782,
+      "ayet_bas": 49,
+      "ayet_bit": 49
+    },
+    {
+      "satir": 516846,
+      "ayet_bas": 50,
+      "ayet_bit": 50
+    }
+  ],
+  "69": [
+    {
+      "satir": 517001,
+      "ayet_bas": 1,
+      "ayet_bit": 3
+    },
+    {
+      "satir": 517177,
+      "ayet_bas": 7,
+      "ayet_bit": 7
+    },
+    {
+      "satir": 517278,
+      "ayet_bas": 8,
+      "ayet_bit": 8
+    },
+    {
+      "satir": 517309,
+      "ayet_bas": 9,
+      "ayet_bit": 9
+    },
+    {
+      "satir": 517373,
+      "ayet_bas": 11,
+      "ayet_bit": 11
+    },
+    {
+      "satir": 517391,
+      "ayet_bas": 12,
+      "ayet_bit": 12
+    },
+    {
+      "satir": 517467,
+      "ayet_bas": 13,
+      "ayet_bit": 13
+    },
+    {
+      "satir": 517510,
+      "ayet_bas": 14,
+      "ayet_bit": 14
+    },
+    {
+      "satir": 517558,
+      "ayet_bas": 17,
+      "ayet_bit": 17
+    },
+    {
+      "satir": 517705,
+      "ayet_bas": 18,
+      "ayet_bit": 18
+    },
+    {
+      "satir": 517758,
+      "ayet_bas": 19,
+      "ayet_bit": 19
+    },
+    {
+      "satir": 517843,
+      "ayet_bas": 20,
+      "ayet_bit": 20
+    },
+    {
+      "satir": 517932,
+      "ayet_bas": 24,
+      "ayet_bit": 24
+    },
+    {
+      "satir": 517993,
+      "ayet_bas": 25,
+      "ayet_bit": 26
+    },
+    {
+      "satir": 518014,
+      "ayet_bas": 27,
+      "ayet_bit": 27
+    },
+    {
+      "satir": 518205,
+      "ayet_bas": 35,
+      "ayet_bit": 35
+    },
+    {
+      "satir": 518226,
+      "ayet_bas": 36,
+      "ayet_bit": 36
+    },
+    {
+      "satir": 518263,
+      "ayet_bas": 38,
+      "ayet_bit": 39
+    },
+    {
+      "satir": 518305,
+      "ayet_bas": 40,
+      "ayet_bit": 40
+    },
+    {
+      "satir": 518333,
+      "ayet_bas": 41,
+      "ayet_bit": 42
+    },
+    {
+      "satir": 518395,
+      "ayet_bas": 43,
+      "ayet_bit": 43
+    },
+    {
+      "satir": 518412,
+      "ayet_bas": 44,
+      "ayet_bit": 44
+    },
+    {
+      "satir": 518431,
+      "ayet_bas": 45,
+      "ayet_bit": 46
+    },
+    {
+      "satir": 518497,
+      "ayet_bas": 47,
+      "ayet_bit": 47
+    },
+    {
+      "satir": 518517,
+      "ayet_bas": 49,
+      "ayet_bit": 49
+    },
+    {
+      "satir": 518534,
+      "ayet_bas": 50,
+      "ayet_bit": 50
+    },
+    {
+      "satir": 518547,
+      "ayet_bas": 5,
+      "ayet_bit": 5
+    },
+    {
+      "satir": 518565,
+      "ayet_bas": 52,
+      "ayet_bit": 52
+    }
+  ],
+  "70": [
+    {
+      "satir": 519083,
+      "ayet_bas": 15,
+      "ayet_bit": 16
+    }
+  ],
+  "71": [
+    {
+      "satir": 519799,
+      "ayet_bas": 7,
+      "ayet_bit": 7
+    },
+    {
+      "satir": 519838,
+      "ayet_bas": 6,
+      "ayet_bit": 9
+    },
+    {
+      "satir": 519868,
+      "ayet_bas": 10,
+      "ayet_bit": 10
+    },
+    {
+      "satir": 520030,
+      "ayet_bas": 14,
+      "ayet_bit": 14
+    },
+    {
+      "satir": 520243,
+      "ayet_bas": 21,
+      "ayet_bit": 21
+    },
+    {
+      "satir": 520298,
+      "ayet_bas": 22,
+      "ayet_bit": 24
+    }
+  ],
+  "72": [
+    {
+      "satir": 521347,
+      "ayet_bas": 6,
+      "ayet_bit": 6
+    },
+    {
+      "satir": 521566,
+      "ayet_bas": 10,
+      "ayet_bit": 10
+    },
+    {
+      "satir": 521645,
+      "ayet_bas": 13,
+      "ayet_bit": 13
+    },
+    {
+      "satir": 521687,
+      "ayet_bas": 14,
+      "ayet_bit": 14
+    },
+    {
+      "satir": 522003,
+      "ayet_bas": 19,
+      "ayet_bit": 19
+    },
+    {
+      "satir": 522100,
+      "ayet_bas": 20,
+      "ayet_bit": 20
+    },
+    {
+      "satir": 522118,
+      "ayet_bas": 21,
+      "ayet_bit": 21
+    },
+    {
+      "satir": 522130,
+      "ayet_bas": 22,
+      "ayet_bit": 22
+    },
+    {
+      "satir": 522318,
+      "ayet_bas": 24,
+      "ayet_bit": 24
+    },
+    {
+      "satir": 522365,
+      "ayet_bas": 25,
+      "ayet_bit": 25
+    },
+    {
+      "satir": 522394,
+      "ayet_bas": 26,
+      "ayet_bit": 27
+    },
+    {
+      "satir": 522529,
+      "ayet_bas": 28,
+      "ayet_bit": 28
+    }
+  ],
+  "73": [
+    {
+      "satir": 522627,
+      "ayet_bas": 1,
+      "ayet_bit": 4
+    },
+    {
+      "satir": 523137,
+      "ayet_bas": 8,
+      "ayet_bit": 8
+    },
+    {
+      "satir": 523365,
+      "ayet_bas": 10,
+      "ayet_bit": 10
+    },
+    {
+      "satir": 523401,
+      "ayet_bas": 11,
+      "ayet_bit": 11
+    },
+    {
+      "satir": 523435,
+      "ayet_bas": 12,
+      "ayet_bit": 13
+    },
+    {
+      "satir": 523659,
+      "ayet_bas": 17,
+      "ayet_bit": 18
+    },
+    {
+      "satir": 523825,
+      "ayet_bas": 19,
+      "ayet_bit": 19
+    },
+    {
+      "satir": 523852,
+      "ayet_bas": 20,
+      "ayet_bit": 20
+    }
+  ],
+  "74": [
+    {
+      "satir": 524095,
+      "ayet_bas": 1,
+      "ayet_bit": 1
+    },
+    {
+      "satir": 524322,
+      "ayet_bas": 4,
+      "ayet_bit": 4
+    },
+    {
+      "satir": 524714,
+      "ayet_bas": 7,
+      "ayet_bit": 7
+    },
+    {
+      "satir": 524759,
+      "ayet_bas": 8,
+      "ayet_bit": 8
+    },
+    {
+      "satir": 524836,
+      "ayet_bas": 9,
+      "ayet_bit": 10
+    },
+    {
+      "satir": 525220,
+      "ayet_bas": 2324,
+      "ayet_bit": 2324
+    },
+    {
+      "satir": 525271,
+      "ayet_bas": 28,
+      "ayet_bit": 28
+    },
+    {
+      "satir": 525846,
+      "ayet_bas": 35,
+      "ayet_bit": 37
+    },
+    {
+      "satir": 525953,
+      "ayet_bas": 38,
+      "ayet_bit": 41
+    },
+    {
+      "satir": 526079,
+      "ayet_bas": 46,
+      "ayet_bit": 46
+    },
+    {
+      "satir": 526090,
+      "ayet_bas": 49,
+      "ayet_bit": 49
+    },
+    {
+      "satir": 526099,
+      "ayet_bas": 50,
+      "ayet_bit": 51
+    },
+    {
+      "satir": 526177,
+      "ayet_bas": 53,
+      "ayet_bit": 56
+    }
+  ],
+  "75": [
+    {
+      "satir": 526234,
+      "ayet_bas": 1,
+      "ayet_bit": 2
+    },
+    {
+      "satir": 526467,
+      "ayet_bas": 3,
+      "ayet_bit": 4
+    },
+    {
+      "satir": 526591,
+      "ayet_bas": 6,
+      "ayet_bit": 6
+    },
+    {
+      "satir": 526663,
+      "ayet_bas": 9,
+      "ayet_bit": 10
+    },
+    {
+      "satir": 526982,
+      "ayet_bas": 15,
+      "ayet_bit": 15
+    },
+    {
+      "satir": 527133,
+      "ayet_bas": 17,
+      "ayet_bit": 17
+    },
+    {
+      "satir": 527189,
+      "ayet_bas": 16,
+      "ayet_bit": 16
+    },
+    {
+      "satir": 527223,
+      "ayet_bas": 19,
+      "ayet_bit": 19
+    },
+    {
+      "satir": 527336,
+      "ayet_bas": 22,
+      "ayet_bit": 22
+    },
+    {
+      "satir": 527354,
+      "ayet_bas": 23,
+      "ayet_bit": 23
+    },
+    {
+      "satir": 527640,
+      "ayet_bas": 26,
+      "ayet_bit": 26
+    },
+    {
+      "satir": 527691,
+      "ayet_bas": 27,
+      "ayet_bit": 27
+    },
+    {
+      "satir": 527735,
+      "ayet_bas": 28,
+      "ayet_bit": 28
+    },
+    {
+      "satir": 527754,
+      "ayet_bas": 29,
+      "ayet_bit": 30
+    },
+    {
+      "satir": 527939,
+      "ayet_bas": 36,
+      "ayet_bit": 37
+    },
+    {
+      "satir": 528008,
+      "ayet_bas": 38,
+      "ayet_bit": 40
+    }
+  ],
+  "76": [
+    {
+      "satir": 528140,
+      "ayet_bas": 2,
+      "ayet_bit": 2
+    },
+    {
+      "satir": 529575,
+      "ayet_bas": 21,
+      "ayet_bit": 21
+    },
+    {
+      "satir": 529613,
+      "ayet_bas": 19,
+      "ayet_bit": 19
+    },
+    {
+      "satir": 529670,
+      "ayet_bas": 13,
+      "ayet_bit": 13
+    }
+  ],
+  "77": [
+    {
+      "satir": 530790,
+      "ayet_bas": 7,
+      "ayet_bit": 7
+    },
+    {
+      "satir": 530820,
+      "ayet_bas": 8,
+      "ayet_bit": 8
+    },
+    {
+      "satir": 530837,
+      "ayet_bas": 9,
+      "ayet_bit": 9
+    },
+    {
+      "satir": 530882,
+      "ayet_bas": 11,
+      "ayet_bit": 11
+    },
+    {
+      "satir": 530945,
+      "ayet_bas": 12,
+      "ayet_bit": 12
+    },
+    {
+      "satir": 530994,
+      "ayet_bas": 16,
+      "ayet_bit": 19
+    },
+    {
+      "satir": 531000,
+      "ayet_bas": 14,
+      "ayet_bit": 14
+    },
+    {
+      "satir": 531153,
+      "ayet_bas": 25,
+      "ayet_bit": 28
+    },
+    {
+      "satir": 531253,
+      "ayet_bas": 29,
+      "ayet_bit": 34
+    },
+    {
+      "satir": 531804,
+      "ayet_bas": 41,
+      "ayet_bit": 45
+    },
+    {
+      "satir": 531998,
+      "ayet_bas": 50,
+      "ayet_bit": 50
+    }
+  ],
+  "78": [
+    {
+      "satir": 532041,
+      "ayet_bas": 1,
+      "ayet_bit": 3
+    },
+    {
+      "satir": 532366,
+      "ayet_bas": 6,
+      "ayet_bit": 6
+    },
+    {
+      "satir": 532596,
+      "ayet_bas": 14,
+      "ayet_bit": 14
+    },
+    {
+      "satir": 532664,
+      "ayet_bas": 15,
+      "ayet_bit": 16
+    },
+    {
+      "satir": 532730,
+      "ayet_bas": 17,
+      "ayet_bit": 17
+    },
+    {
+      "satir": 532771,
+      "ayet_bas": 18,
+      "ayet_bit": 18
+    },
+    {
+      "satir": 532830,
+      "ayet_bas": 19,
+      "ayet_bit": 19
+    },
+    {
+      "satir": 532873,
+      "ayet_bas": 20,
+      "ayet_bit": 20
+    },
+    {
+      "satir": 533012,
+      "ayet_bas": 22,
+      "ayet_bit": 22
+    },
+    {
+      "satir": 533033,
+      "ayet_bas": 23,
+      "ayet_bit": 23
+    },
+    {
+      "satir": 533592,
+      "ayet_bas": 31,
+      "ayet_bit": 31
+    },
+    {
+      "satir": 533719,
+      "ayet_bas": 36,
+      "ayet_bit": 36
+    },
+    {
+      "satir": 533813,
+      "ayet_bas": 37,
+      "ayet_bit": 37
+    },
+    {
+      "satir": 533908,
+      "ayet_bas": 38,
+      "ayet_bit": 38
+    }
+  ],
+  "79": [
+    {
+      "satir": 534222,
+      "ayet_bas": 1,
+      "ayet_bit": 6
+    },
+    {
+      "satir": 534704,
+      "ayet_bas": 6,
+      "ayet_bit": 9
+    },
+    {
+      "satir": 534756,
+      "ayet_bas": 26,
+      "ayet_bit": 26
+    },
+    {
+      "satir": 534926,
+      "ayet_bas": 10,
+      "ayet_bit": 10
+    },
+    {
+      "satir": 534959,
+      "ayet_bas": 11,
+      "ayet_bit": 11
+    },
+    {
+      "satir": 535119,
+      "ayet_bas": 12,
+      "ayet_bit": 12
+    },
+    {
+      "satir": 535128,
+      "ayet_bas": 13,
+      "ayet_bit": 14
+    },
+    {
+      "satir": 535188,
+      "ayet_bas": 15,
+      "ayet_bit": 17
+    },
+    {
+      "satir": 535324,
+      "ayet_bas": 18,
+      "ayet_bit": 18
+    },
+    {
+      "satir": 535396,
+      "ayet_bas": 19,
+      "ayet_bit": 19
+    },
+    {
+      "satir": 535465,
+      "ayet_bas": 20,
+      "ayet_bit": 20
+    },
+    {
+      "satir": 535607,
+      "ayet_bas": 23,
+      "ayet_bit": 24
+    },
+    {
+      "satir": 535990,
+      "ayet_bas": 29,
+      "ayet_bit": 29
+    },
+    {
+      "satir": 536129,
+      "ayet_bas": 31,
+      "ayet_bit": 31
+    },
+    {
+      "satir": 536196,
+      "ayet_bas": 32,
+      "ayet_bit": 32
+    },
+    {
+      "satir": 536207,
+      "ayet_bas": 33,
+      "ayet_bit": 33
+    },
+    {
+      "satir": 536235,
+      "ayet_bas": 34,
+      "ayet_bit": 34
+    },
+    {
+      "satir": 536282,
+      "ayet_bas": 35,
+      "ayet_bit": 35
+    },
+    {
+      "satir": 536349,
+      "ayet_bas": 37,
+      "ayet_bit": 39
+    },
+    {
+      "satir": 536367,
+      "ayet_bas": 34,
+      "ayet_bit": 34
+    },
+    {
+      "satir": 536465,
+      "ayet_bas": 42,
+      "ayet_bit": 42
+    },
+    {
+      "satir": 536512,
+      "ayet_bas": 44,
+      "ayet_bit": 44
+    },
+    {
+      "satir": 536526,
+      "ayet_bas": 45,
+      "ayet_bit": 45
+    }
+  ],
+  "80": [
+    {
+      "satir": 536603,
+      "ayet_bas": 1,
+      "ayet_bit": 2
+    },
+    {
+      "satir": 536761,
+      "ayet_bas": 3,
+      "ayet_bit": 4
+    },
+    {
+      "satir": 536785,
+      "ayet_bas": 5,
+      "ayet_bit": 5
+    },
+    {
+      "satir": 536799,
+      "ayet_bas": 6,
+      "ayet_bit": 6
+    },
+    {
+      "satir": 536813,
+      "ayet_bas": 7,
+      "ayet_bit": 7
+    },
+    {
+      "satir": 536854,
+      "ayet_bas": 11,
+      "ayet_bit": 12
+    },
+    {
+      "satir": 536902,
+      "ayet_bas": 13,
+      "ayet_bit": 16
+    },
+    {
+      "satir": 537015,
+      "ayet_bas": 17,
+      "ayet_bit": 17
+    },
+    {
+      "satir": 537201,
+      "ayet_bas": 23,
+      "ayet_bit": 23
+    },
+    {
+      "satir": 537295,
+      "ayet_bas": 26,
+      "ayet_bit": 32
+    },
+    {
+      "satir": 537392,
+      "ayet_bas": 33,
+      "ayet_bit": 33
+    },
+    {
+      "satir": 537416,
+      "ayet_bas": 34,
+      "ayet_bit": 36
+    },
+    {
+      "satir": 537458,
+      "ayet_bas": 37,
+      "ayet_bit": 37
+    },
+    {
+      "satir": 537500,
+      "ayet_bas": 38,
+      "ayet_bit": 39
+    },
+    {
+      "satir": 537523,
+      "ayet_bas": 40,
+      "ayet_bit": 42
+    }
+  ],
+  "81": [
+    {
+      "satir": 537569,
+      "ayet_bas": 1,
+      "ayet_bit": 1
+    },
+    {
+      "satir": 537639,
+      "ayet_bas": 2,
+      "ayet_bit": 2
+    },
+    {
+      "satir": 537654,
+      "ayet_bas": 3,
+      "ayet_bit": 3
+    },
+    {
+      "satir": 537668,
+      "ayet_bas": 4,
+      "ayet_bit": 4
+    },
+    {
+      "satir": 537709,
+      "ayet_bas": 5,
+      "ayet_bit": 5
+    },
+    {
+      "satir": 537756,
+      "ayet_bas": 8,
+      "ayet_bit": 8
+    },
+    {
+      "satir": 537818,
+      "ayet_bas": 7,
+      "ayet_bit": 7
+    },
+    {
+      "satir": 537866,
+      "ayet_bas": 8,
+      "ayet_bit": 9
+    },
+    {
+      "satir": 538150,
+      "ayet_bas": 19,
+      "ayet_bit": 21
+    },
+    {
+      "satir": 538271,
+      "ayet_bas": 22,
+      "ayet_bit": 24
+    },
+    {
+      "satir": 538316,
+      "ayet_bas": 25,
+      "ayet_bit": 25
+    },
+    {
+      "satir": 538349,
+      "ayet_bas": 2726,
+      "ayet_bit": 2726
+    },
+    {
+      "satir": 538368,
+      "ayet_bas": 29,
+      "ayet_bit": 29
+    }
+  ],
+  "82": [
+    {
+      "satir": 538411,
+      "ayet_bas": 1,
+      "ayet_bit": 5
+    },
+    {
+      "satir": 538646,
+      "ayet_bas": 9,
+      "ayet_bit": 9
+    },
+    {
+      "satir": 538909,
+      "ayet_bas": 9,
+      "ayet_bit": 9
+    },
+    {
+      "satir": 539206,
+      "ayet_bas": 17,
+      "ayet_bit": 19
+    }
+  ],
+  "83": [
+    {
+      "satir": 539628,
+      "ayet_bas": 4,
+      "ayet_bit": 4
+    },
+    {
+      "satir": 539684,
+      "ayet_bas": 7,
+      "ayet_bit": 17
+    },
+    {
+      "satir": 540115,
+      "ayet_bas": 18,
+      "ayet_bit": 21
+    },
+    {
+      "satir": 540463,
+      "ayet_bas": 29,
+      "ayet_bit": 36
+    }
+  ],
+  "85": [
+    {
+      "satir": 542662,
+      "ayet_bas": 17,
+      "ayet_bit": 22
+    }
+  ],
+  "86": [
+    {
+      "satir": 542803,
+      "ayet_bas": 1,
+      "ayet_bit": 4
+    }
+  ],
+  "87": [
+    {
+      "satir": 543742,
+      "ayet_bas": 87,
+      "ayet_bit": 1
+    },
+    {
+      "satir": 544607,
+      "ayet_bas": 14,
+      "ayet_bit": 14
+    },
+    {
+      "satir": 544753,
+      "ayet_bas": 17,
+      "ayet_bit": 17
+    },
+    {
+      "satir": 544769,
+      "ayet_bas": 87,
+      "ayet_bit": 18
+    }
+  ],
+  "88": [
+    {
+      "satir": 544853,
+      "ayet_bas": 1,
+      "ayet_bit": 3
+    },
+    {
+      "satir": 545156,
+      "ayet_bas": 88,
+      "ayet_bit": 7
+    },
+    {
+      "satir": 545438,
+      "ayet_bas": 88,
+      "ayet_bit": 17
+    },
+    {
+      "satir": 545559,
+      "ayet_bas": 18,
+      "ayet_bit": 18
+    },
+    {
+      "satir": 545564,
+      "ayet_bas": 19,
+      "ayet_bit": 19
+    },
+    {
+      "satir": 545572,
+      "ayet_bas": 20,
+      "ayet_bit": 20
+    },
+    {
+      "satir": 545649,
+      "ayet_bas": 88,
+      "ayet_bit": 21
+    },
+    {
+      "satir": 545664,
+      "ayet_bas": 22,
+      "ayet_bit": 22
+    },
+    {
+      "satir": 545751,
+      "ayet_bas": 25,
+      "ayet_bit": 26
+    }
+  ],
+  "89": [
+    {
+      "satir": 545825,
+      "ayet_bas": 1,
+      "ayet_bit": 5
+    },
+    {
+      "satir": 546232,
+      "ayet_bas": 6,
+      "ayet_bit": 14
+    },
+    {
+      "satir": 546630,
+      "ayet_bas": 15,
+      "ayet_bit": 16
+    },
+    {
+      "satir": 546804,
+      "ayet_bas": 17,
+      "ayet_bit": 20
+    },
+    {
+      "satir": 547169,
+      "ayet_bas": 89,
+      "ayet_bit": 24
+    },
+    {
+      "satir": 547216,
+      "ayet_bas": 25,
+      "ayet_bit": 26
+    },
+    {
+      "satir": 547289,
+      "ayet_bas": 27,
+      "ayet_bit": 28
+    },
+    {
+      "satir": 547456,
+      "ayet_bas": 29,
+      "ayet_bit": 30
+    }
+  ],
+  "90": [
+    {
+      "satir": 547521,
+      "ayet_bas": 1,
+      "ayet_bit": 4
+    },
+    {
+      "satir": 547779,
+      "ayet_bas": 5,
+      "ayet_bit": 5
+    },
+    {
+      "satir": 547801,
+      "ayet_bas": 6,
+      "ayet_bit": 6
+    },
+    {
+      "satir": 547817,
+      "ayet_bas": 7,
+      "ayet_bit": 7
+    },
+    {
+      "satir": 547841,
+      "ayet_bas": 8,
+      "ayet_bit": 10
+    },
+    {
+      "satir": 547950,
+      "ayet_bas": 12,
+      "ayet_bit": 12
+    },
+    {
+      "satir": 547967,
+      "ayet_bas": 13,
+      "ayet_bit": 13
+    }
+  ],
+  "91": [
+    {
+      "satir": 548295,
+      "ayet_bas": 1,
+      "ayet_bit": 2
+    },
+    {
+      "satir": 548454,
+      "ayet_bas": 91,
+      "ayet_bit": 3
+    },
+    {
+      "satir": 548583,
+      "ayet_bas": 91,
+      "ayet_bit": 6
+    },
+    {
+      "satir": 548604,
+      "ayet_bas": 7,
+      "ayet_bit": 7
+    },
+    {
+      "satir": 548651,
+      "ayet_bas": 8,
+      "ayet_bit": 8
+    },
+    {
+      "satir": 548732,
+      "ayet_bas": 9,
+      "ayet_bit": 9
+    },
+    {
+      "satir": 548776,
+      "ayet_bas": 10,
+      "ayet_bit": 10
+    },
+    {
+      "satir": 548838,
+      "ayet_bas": 91,
+      "ayet_bit": 11
+    },
+    {
+      "satir": 548865,
+      "ayet_bas": 12,
+      "ayet_bit": 12
+    }
+  ],
+  "92": [
+    {
+      "satir": 549094,
+      "ayet_bas": 1,
+      "ayet_bit": 2
+    },
+    {
+      "satir": 549163,
+      "ayet_bas": 3,
+      "ayet_bit": 3
+    },
+    {
+      "satir": 549207,
+      "ayet_bas": 4,
+      "ayet_bit": 4
+    },
+    {
+      "satir": 549512,
+      "ayet_bas": 11,
+      "ayet_bit": 11
+    },
+    {
+      "satir": 549542,
+      "ayet_bas": 12,
+      "ayet_bit": 12
+    },
+    {
+      "satir": 549596,
+      "ayet_bas": 13,
+      "ayet_bit": 13
+    },
+    {
+      "satir": 549617,
+      "ayet_bas": 14,
+      "ayet_bit": 16
+    },
+    {
+      "satir": 549752,
+      "ayet_bas": 17,
+      "ayet_bit": 19
+    }
+  ],
+  "93": [
+    {
+      "satir": 550212,
+      "ayet_bas": 3,
+      "ayet_bit": 3
+    },
+    {
+      "satir": 550459,
+      "ayet_bas": 5,
+      "ayet_bit": 5
+    },
+    {
+      "satir": 550631,
+      "ayet_bas": 6,
+      "ayet_bit": 6
+    },
+    {
+      "satir": 550804,
+      "ayet_bas": 7,
+      "ayet_bit": 7
+    },
+    {
+      "satir": 550989,
+      "ayet_bas": 8,
+      "ayet_bit": 8
+    },
+    {
+      "satir": 551176,
+      "ayet_bas": 9,
+      "ayet_bit": 9
+    },
+    {
+      "satir": 551216,
+      "ayet_bas": 10,
+      "ayet_bit": 10
+    },
+    {
+      "satir": 551283,
+      "ayet_bas": 11,
+      "ayet_bit": 11
+    }
+  ],
+  "94": [
+    {
+      "satir": 551702,
+      "ayet_bas": 5,
+      "ayet_bit": 6
+    }
+  ],
+  "95": [
+    {
+      "satir": 551850,
+      "ayet_bas": 1,
+      "ayet_bit": 3
+    },
+    {
+      "satir": 552105,
+      "ayet_bas": 5,
+      "ayet_bit": 5
+    },
+    {
+      "satir": 552155,
+      "ayet_bas": 7,
+      "ayet_bit": 7
+    },
+    {
+      "satir": 552194,
+      "ayet_bas": 8,
+      "ayet_bit": 8
+    }
+  ],
+  "96": [
+    {
+      "satir": 552509,
+      "ayet_bas": 3,
+      "ayet_bit": 4
+    },
+    {
+      "satir": 552643,
+      "ayet_bas": 5,
+      "ayet_bit": 5
+    },
+    {
+      "satir": 552664,
+      "ayet_bas": 6,
+      "ayet_bit": 6
+    },
+    {
+      "satir": 552772,
+      "ayet_bas": 7,
+      "ayet_bit": 7
+    },
+    {
+      "satir": 552838,
+      "ayet_bas": 8,
+      "ayet_bit": 8
+    },
+    {
+      "satir": 552898,
+      "ayet_bas": 9,
+      "ayet_bit": 10
+    },
+    {
+      "satir": 553122,
+      "ayet_bas": 14,
+      "ayet_bit": 14
+    },
+    {
+      "satir": 553163,
+      "ayet_bas": 15,
+      "ayet_bit": 16
+    },
+    {
+      "satir": 553386,
+      "ayet_bas": 17,
+      "ayet_bit": 18
+    },
+    {
+      "satir": 553482,
+      "ayet_bas": 19,
+      "ayet_bit": 19
+    }
+  ],
+  "97": [
+    {
+      "satir": 553547,
+      "ayet_bas": 1,
+      "ayet_bit": 1
+    },
+    {
+      "satir": 553852,
+      "ayet_bas": 2,
+      "ayet_bit": 2
+    },
+    {
+      "satir": 553998,
+      "ayet_bas": 4,
+      "ayet_bit": 4
+    },
+    {
+      "satir": 554323,
+      "ayet_bas": 97,
+      "ayet_bit": 5
+    }
+  ],
+  "98": [
+    {
+      "satir": 554416,
+      "ayet_bas": 1,
+      "ayet_bit": 4
+    },
+    {
+      "satir": 555297,
+      "ayet_bas": 6,
+      "ayet_bit": 6
+    },
+    {
+      "satir": 555470,
+      "ayet_bas": 7,
+      "ayet_bit": 7
+    },
+    {
+      "satir": 555550,
+      "ayet_bas": 7,
+      "ayet_bit": 7
+    },
+    {
+      "satir": 555589,
+      "ayet_bas": 8,
+      "ayet_bit": 8
+    }
+  ],
+  "99": [
+    {
+      "satir": 555960,
+      "ayet_bas": 1,
+      "ayet_bit": 1
+    },
+    {
+      "satir": 556084,
+      "ayet_bas": 2,
+      "ayet_bit": 2
+    },
+    {
+      "satir": 556131,
+      "ayet_bas": 3,
+      "ayet_bit": 3
+    },
+    {
+      "satir": 556180,
+      "ayet_bas": 4,
+      "ayet_bit": 4
+    }
+  ],
+  "100": [
+    {
+      "satir": 556461,
+      "ayet_bas": 1,
+      "ayet_bit": 1
+    },
+    {
+      "satir": 556652,
+      "ayet_bas": 3,
+      "ayet_bit": 3
+    },
+    {
+      "satir": 556802,
+      "ayet_bas": 6,
+      "ayet_bit": 6
+    },
+    {
+      "satir": 556840,
+      "ayet_bas": 7,
+      "ayet_bit": 7
+    },
+    {
+      "satir": 556874,
+      "ayet_bas": 8,
+      "ayet_bit": 8
+    }
+  ],
+  "101": [
+    {
+      "satir": 557097,
+      "ayet_bas": 1,
+      "ayet_bit": 3
+    },
+    {
+      "satir": 557425,
+      "ayet_bas": 10,
+      "ayet_bit": 10
+    }
+  ],
+  "102": [
+    {
+      "satir": 557459,
+      "ayet_bas": 12,
+      "ayet_bit": 12
+    },
+    {
+      "satir": 557676,
+      "ayet_bas": 3,
+      "ayet_bit": 4
+    },
+    {
+      "satir": 557756,
+      "ayet_bas": 9,
+      "ayet_bit": 9
+    },
+    {
+      "satir": 557935,
+      "ayet_bas": 8,
+      "ayet_bit": 8
+    }
+  ],
+  "103": [
+    {
+      "satir": 558186,
+      "ayet_bas": 1,
+      "ayet_bit": 1
+    },
+    {
+      "satir": 558401,
+      "ayet_bas": 2,
+      "ayet_bit": 2
+    },
+    {
+      "satir": 558539,
+      "ayet_bas": 3,
+      "ayet_bit": 3
+    }
+  ],
+  "104": [
+    {
+      "satir": 558721,
+      "ayet_bas": 1,
+      "ayet_bit": 1
+    },
+    {
+      "satir": 558831,
+      "ayet_bas": 2,
+      "ayet_bit": 2
+    },
+    {
+      "satir": 558922,
+      "ayet_bas": 3,
+      "ayet_bit": 3
+    },
+    {
+      "satir": 559022,
+      "ayet_bas": 6,
+      "ayet_bit": 6
+    },
+    {
+      "satir": 559038,
+      "ayet_bas": 7,
+      "ayet_bit": 7
+    },
+    {
+      "satir": 559070,
+      "ayet_bas": 8,
+      "ayet_bit": 8
+    },
+    {
+      "satir": 559096,
+      "ayet_bas": 9,
+      "ayet_bit": 9
+    }
+  ],
+  "105": [
+    {
+      "satir": 559155,
+      "ayet_bas": 1,
+      "ayet_bit": 1
+    },
+    {
+      "satir": 559424,
+      "ayet_bas": 3,
+      "ayet_bit": 3
+    },
+    {
+      "satir": 559487,
+      "ayet_bas": 4,
+      "ayet_bit": 4
+    }
+  ],
+  "106": [
+    {
+      "satir": 559653,
+      "ayet_bas": 1,
+      "ayet_bit": 1
+    },
+    {
+      "satir": 559919,
+      "ayet_bas": 2,
+      "ayet_bit": 2
+    },
+    {
+      "satir": 559997,
+      "ayet_bas": 3,
+      "ayet_bit": 3
+    },
+    {
+      "satir": 560059,
+      "ayet_bas": 4,
+      "ayet_bit": 4
+    }
+  ],
+  "107": [
+    {
+      "satir": 560264,
+      "ayet_bas": 1,
+      "ayet_bit": 1
+    },
+    {
+      "satir": 560614,
+      "ayet_bas": 6,
+      "ayet_bit": 7
+    }
+  ],
+  "108": [
+    {
+      "satir": 561939,
+      "ayet_bas": 2,
+      "ayet_bit": 2
+    },
+    {
+      "satir": 562307,
+      "ayet_bas": 3,
+      "ayet_bit": 3
+    }
+  ],
+  "109": [
+    {
+      "satir": 562588,
+      "ayet_bas": 1,
+      "ayet_bit": 1
+    },
+    {
+      "satir": 563352,
+      "ayet_bas": 6,
+      "ayet_bit": 6
+    }
+  ],
+  "110": [
+    {
+      "satir": 563449,
+      "ayet_bas": 1,
+      "ayet_bit": 1
+    },
+    {
+      "satir": 564052,
+      "ayet_bas": 2,
+      "ayet_bit": 2
+    },
+    {
+      "satir": 564228,
+      "ayet_bas": 3,
+      "ayet_bit": 3
+    }
+  ],
+  "111": [
+    {
+      "satir": 564864,
+      "ayet_bas": 1,
+      "ayet_bit": 1
+    },
+    {
+      "satir": 565203,
+      "ayet_bas": 2,
+      "ayet_bit": 2
+    },
+    {
+      "satir": 565286,
+      "ayet_bas": 3,
+      "ayet_bit": 3
+    },
+    {
+      "satir": 565394,
+      "ayet_bas": 4,
+      "ayet_bit": 4
+    },
+    {
+      "satir": 565542,
+      "ayet_bas": 5,
+      "ayet_bit": 5
+    }
+  ],
+  "112": [
+    {
+      "satir": 566114,
+      "ayet_bas": 2,
+      "ayet_bit": 2
+    },
+    {
+      "satir": 566307,
+      "ayet_bas": 3,
+      "ayet_bit": 3
+    },
+    {
+      "satir": 566416,
+      "ayet_bas": 4,
+      "ayet_bit": 4
+    }
+  ],
+  "113": [
+    {
+      "satir": 566663,
+      "ayet_bas": 1,
+      "ayet_bit": 1
+    },
+    {
+      "satir": 566991,
+      "ayet_bas": 2,
+      "ayet_bit": 2
+    },
+    {
+      "satir": 567111,
+      "ayet_bas": 3,
+      "ayet_bit": 3
+    },
+    {
+      "satir": 567190,
+      "ayet_bas": 4,
+      "ayet_bit": 4
+    },
+    {
+      "satir": 567257,
+      "ayet_bas": 5,
+      "ayet_bit": 5
+    }
+  ],
+  "114": [
+    {
+      "satir": 567431,
+      "ayet_bas": 4,
+      "ayet_bit": 4
+    },
+    {
+      "satir": 567463,
+      "ayet_bas": 6,
+      "ayet_bit": 6
+    }
+  ],
+  "27": [
+    {
+      "satir": 389093,
+      "ayet_bas": 1,
+      "ayet_bit": 3
+    },
+    {
+      "satir": 389349,
+      "ayet_bas": 6,
+      "ayet_bit": 9
+    },
+    {
+      "satir": 389590,
+      "ayet_bas": 10,
+      "ayet_bit": 14
+    },
+    {
+      "satir": 389684,
+      "ayet_bas": 15,
+      "ayet_bit": 19
+    },
+    {
+      "satir": 389977,
+      "ayet_bas": 20,
+      "ayet_bit": 24
+    },
+    {
+      "satir": 390168,
+      "ayet_bas": 25,
+      "ayet_bit": 28
+    },
+    {
+      "satir": 390337,
+      "ayet_bas": 29,
+      "ayet_bit": 33
+    },
+    {
+      "satir": 390456,
+      "ayet_bas": 34,
+      "ayet_bit": 37
+    },
+    {
+      "satir": 390535,
+      "ayet_bas": 36,
+      "ayet_bit": 40
+    },
+    {
+      "satir": 390555,
+      "ayet_bas": 41,
+      "ayet_bit": 41
+    },
+    {
+      "satir": 390834,
+      "ayet_bas": 44,
+      "ayet_bit": 44
+    },
+    {
+      "satir": 391094,
+      "ayet_bas": 54,
+      "ayet_bit": 58
+    },
+    {
+      "satir": 391154,
+      "ayet_bas": 59,
+      "ayet_bit": 60
+    },
+    {
+      "satir": 391275,
+      "ayet_bas": 61,
+      "ayet_bit": 61
+    },
+    {
+      "satir": 391438,
+      "ayet_bas": 62,
+      "ayet_bit": 62
+    },
+    {
+      "satir": 391490,
+      "ayet_bas": 63,
+      "ayet_bit": 63
+    },
+    {
+      "satir": 391572,
+      "ayet_bas": 64,
+      "ayet_bit": 64
+    },
+    {
+      "satir": 391604,
+      "ayet_bas": 65,
+      "ayet_bit": 66
+    },
+    {
+      "satir": 391742,
+      "ayet_bas": 67,
+      "ayet_bit": 75
+    },
+    {
+      "satir": 391921,
+      "ayet_bas": 76,
+      "ayet_bit": 81
+    },
+    {
+      "satir": 392026,
+      "ayet_bas": 82,
+      "ayet_bit": 86
+    },
+    {
+      "satir": 392197,
+      "ayet_bas": 87,
+      "ayet_bit": 87
+    },
+    {
+      "satir": 392256,
+      "ayet_bas": 86,
+      "ayet_bit": 86
+    }
+  ],
+  "35": [
+    {
+      "satir": 415876,
+      "ayet_bas": 1,
+      "ayet_bit": 1
+    },
+    {
+      "satir": 415962,
+      "ayet_bas": 2,
+      "ayet_bit": 2
+    },
+    {
+      "satir": 416010,
+      "ayet_bas": 3,
+      "ayet_bit": 3
+    },
+    {
+      "satir": 416033,
+      "ayet_bas": 4,
+      "ayet_bit": 4
+    },
+    {
+      "satir": 416049,
+      "ayet_bas": 5,
+      "ayet_bit": 5
+    },
+    {
+      "satir": 416084,
+      "ayet_bas": 6,
+      "ayet_bit": 7
+    },
+    {
+      "satir": 416200,
+      "ayet_bas": 9,
+      "ayet_bit": 9
+    },
+    {
+      "satir": 416280,
+      "ayet_bas": 10,
+      "ayet_bit": 10
+    },
+    {
+      "satir": 416430,
+      "ayet_bas": 11,
+      "ayet_bit": 11
+    },
+    {
+      "satir": 416486,
+      "ayet_bas": 12,
+      "ayet_bit": 12
+    },
+    {
+      "satir": 416555,
+      "ayet_bas": 13,
+      "ayet_bit": 13
+    },
+    {
+      "satir": 416624,
+      "ayet_bas": 14,
+      "ayet_bit": 14
+    },
+    {
+      "satir": 416674,
+      "ayet_bas": 15,
+      "ayet_bit": 15
+    },
+    {
+      "satir": 416785,
+      "ayet_bas": 16,
+      "ayet_bit": 16
+    },
+    {
+      "satir": 416896,
+      "ayet_bas": 19,
+      "ayet_bit": 22
+    },
+    {
+      "satir": 417052,
+      "ayet_bas": 23,
+      "ayet_bit": 24
+    },
+    {
+      "satir": 417103,
+      "ayet_bas": 25,
+      "ayet_bit": 25
+    },
+    {
+      "satir": 417135,
+      "ayet_bas": 26,
+      "ayet_bit": 26
+    },
+    {
+      "satir": 417152,
+      "ayet_bas": 27,
+      "ayet_bit": 27
+    },
+    {
+      "satir": 417314,
+      "ayet_bas": 28,
+      "ayet_bit": 28
+    },
+    {
+      "satir": 417371,
+      "ayet_bas": 29,
+      "ayet_bit": 30
+    },
+    {
+      "satir": 417426,
+      "ayet_bas": 31,
+      "ayet_bit": 31
+    },
+    {
+      "satir": 417547,
+      "ayet_bas": 32,
+      "ayet_bit": 32
+    },
+    {
+      "satir": 417719,
+      "ayet_bas": 33,
+      "ayet_bit": 33
+    },
+    {
+      "satir": 417735,
+      "ayet_bas": 33,
+      "ayet_bit": 33
+    },
+    {
+      "satir": 417823,
+      "ayet_bas": 34,
+      "ayet_bit": 35
+    },
+    {
+      "satir": 418005,
+      "ayet_bas": 37,
+      "ayet_bit": 37
+    },
+    {
+      "satir": 418126,
+      "ayet_bas": 38,
+      "ayet_bit": 38
+    },
+    {
+      "satir": 418158,
+      "ayet_bas": 39,
+      "ayet_bit": 39
+    },
+    {
+      "satir": 418206,
+      "ayet_bas": 40,
+      "ayet_bit": 40
+    },
+    {
+      "satir": 418287,
+      "ayet_bas": 41,
+      "ayet_bit": 41
+    },
+    {
+      "satir": 418335,
+      "ayet_bas": 42,
+      "ayet_bit": 43
+    },
+    {
+      "satir": 418574,
+      "ayet_bas": 44,
+      "ayet_bit": 44
+    },
+    {
+      "satir": 418621,
+      "ayet_bas": 44,
+      "ayet_bit": 44
+    },
+    {
+      "satir": 418650,
+      "ayet_bas": 46,
+      "ayet_bit": 46
+    }
+  ],
+  "45": [
+    {
+      "satir": 456506,
+      "ayet_bas": 1,
+      "ayet_bit": 6
+    },
+    {
+      "satir": 456834,
+      "ayet_bas": 7,
+      "ayet_bit": 11
+    },
+    {
+      "satir": 456926,
+      "ayet_bas": 12,
+      "ayet_bit": 15
+    },
+    {
+      "satir": 457043,
+      "ayet_bas": 16,
+      "ayet_bit": 21
+    },
+    {
+      "satir": 457562,
+      "ayet_bas": 27,
+      "ayet_bit": 31
+    },
+    {
+      "satir": 457729,
+      "ayet_bas": 32,
+      "ayet_bit": 37
+    }
+  ],
+  "59": [
+    {
+      "satir": 505979,
+      "ayet_bas": 1,
+      "ayet_bit": 2
+    },
+    {
+      "satir": 506296,
+      "ayet_bas": 3,
+      "ayet_bit": 4
+    },
+    {
+      "satir": 506338,
+      "ayet_bas": 5,
+      "ayet_bit": 5
+    },
+    {
+      "satir": 506432,
+      "ayet_bas": 6,
+      "ayet_bit": 6
+    },
+    {
+      "satir": 506532,
+      "ayet_bas": 7,
+      "ayet_bit": 7
+    },
+    {
+      "satir": 506620,
+      "ayet_bas": 8,
+      "ayet_bit": 8
+    },
+    {
+      "satir": 506672,
+      "ayet_bas": 9,
+      "ayet_bit": 9
+    },
+    {
+      "satir": 506775,
+      "ayet_bas": 10,
+      "ayet_bit": 10
+    },
+    {
+      "satir": 506799,
+      "ayet_bas": 11,
+      "ayet_bit": 11
+    },
+    {
+      "satir": 506825,
+      "ayet_bas": 12,
+      "ayet_bit": 12
+    },
+    {
+      "satir": 506877,
+      "ayet_bas": 13,
+      "ayet_bit": 14
+    },
+    {
+      "satir": 506935,
+      "ayet_bas": 15,
+      "ayet_bit": 15
+    },
+    {
+      "satir": 506956,
+      "ayet_bas": 16,
+      "ayet_bit": 16
+    },
+    {
+      "satir": 506971,
+      "ayet_bas": 17,
+      "ayet_bit": 17
+    },
+    {
+      "satir": 507009,
+      "ayet_bas": 18,
+      "ayet_bit": 18
+    },
+    {
+      "satir": 507028,
+      "ayet_bas": 19,
+      "ayet_bit": 19
+    },
+    {
+      "satir": 507063,
+      "ayet_bas": 20,
+      "ayet_bit": 20
+    },
+    {
+      "satir": 507096,
+      "ayet_bas": 21,
+      "ayet_bit": 21
+    },
+    {
+      "satir": 507126,
+      "ayet_bas": 22,
+      "ayet_bit": 22
+    },
+    {
+      "satir": 507139,
+      "ayet_bas": 23,
+      "ayet_bit": 23
+    },
+    {
+      "satir": 507317,
+      "ayet_bas": 24,
+      "ayet_bit": 24
+    }
+  ],
+  "60": [
+    {
+      "satir": 507364,
+      "ayet_bas": 1,
+      "ayet_bit": 1
+    },
+    {
+      "satir": 507655,
+      "ayet_bas": 2,
+      "ayet_bit": 3
+    },
+    {
+      "satir": 507713,
+      "ayet_bas": 4,
+      "ayet_bit": 4
+    },
+    {
+      "satir": 507822,
+      "ayet_bas": 5,
+      "ayet_bit": 7
+    },
+    {
+      "satir": 507941,
+      "ayet_bas": 6,
+      "ayet_bit": 9
+    },
+    {
+      "satir": 508011,
+      "ayet_bas": 10,
+      "ayet_bit": 10
+    },
+    {
+      "satir": 508149,
+      "ayet_bas": 11,
+      "ayet_bit": 11
+    },
+    {
+      "satir": 508183,
+      "ayet_bas": 12,
+      "ayet_bit": 12
+    },
+    {
+      "satir": 508348,
+      "ayet_bas": 13,
+      "ayet_bit": 13
+    }
+  ],
+  "62": [
+    {
+      "satir": 509124,
+      "ayet_bas": 1,
+      "ayet_bit": 1
+    },
+    {
+      "satir": 509197,
+      "ayet_bas": 2,
+      "ayet_bit": 2
+    },
+    {
+      "satir": 509277,
+      "ayet_bas": 3,
+      "ayet_bit": 4
+    },
+    {
+      "satir": 509337,
+      "ayet_bas": 5,
+      "ayet_bit": 5
+    },
+    {
+      "satir": 509478,
+      "ayet_bas": 6,
+      "ayet_bit": 7
+    },
+    {
+      "satir": 509512,
+      "ayet_bas": 8,
+      "ayet_bit": 8
+    },
+    {
+      "satir": 509547,
+      "ayet_bas": 9,
+      "ayet_bit": 10
+    },
+    {
+      "satir": 509777,
+      "ayet_bas": 11,
+      "ayet_bit": 11
+    }
+  ],
+  "84": [
+    {
+      "satir": 540624,
+      "ayet_bas": 1,
+      "ayet_bit": 5
+    },
+    {
+      "satir": 540747,
+      "ayet_bas": 6,
+      "ayet_bit": 6
+    },
+    {
+      "satir": 541028,
+      "ayet_bas": 12,
+      "ayet_bit": 12
+    },
+    {
+      "satir": 541065,
+      "ayet_bas": 13,
+      "ayet_bit": 13
+    },
+    {
+      "satir": 541550,
+      "ayet_bas": 22,
+      "ayet_bit": 22
+    },
+    {
+      "satir": 541569,
+      "ayet_bas": 24,
+      "ayet_bit": 24
+    },
+    {
+      "satir": 541578,
+      "ayet_bas": 25,
+      "ayet_bit": 25
+    }
+  ]
+}
